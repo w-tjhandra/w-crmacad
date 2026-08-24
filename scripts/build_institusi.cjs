@@ -20,9 +20,13 @@ const OUTPUT_FILE = path.join(__dirname, '../src/data/institusi.json');
   for (const school of enrichedSchools) {
     const status_kerjasama = statusKerjasamaOptions[Math.floor(Math.random() * statusKerjasamaOptions.length)];
     
-    // Default Jatim coordinate range for simulation (approx Jatim center)
-    const lat = -7.2 + (Math.random() * -1.0); 
-    const lng = 112.7 + (Math.random() * 1.5);
+    let lat = school.lat;
+    let lng = school.lng;
+    
+    if (lat == null || isNaN(lat) || lat === 0 || lng == null || isNaN(lng) || lng === 0) {
+      lat = -7.2 + (Math.random() * -1.0);
+      lng = 112.7 + (Math.random() * 1.5);
+    }
 
     finalInstitusiList.push({
       id: `INS${String(counter++).padStart(4, '0')}`,

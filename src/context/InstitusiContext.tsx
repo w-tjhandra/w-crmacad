@@ -60,7 +60,7 @@ export function InstitusiProvider({ children }: { children: ReactNode }) {
   const [institusiList, setInstitusiList] = useState<Institusi[]>(() => {
     const saved = localStorage.getItem('institusi_data');
     const version = localStorage.getItem('institusi_data_version');
-    if (saved && version === '1.8') {
+    if (saved && version === '2.1') {
       return JSON.parse(saved);
     }
     return initialData as Institusi[];
@@ -74,7 +74,7 @@ export function InstitusiProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     localStorage.setItem('institusi_data', JSON.stringify(institusiList));
-    localStorage.setItem('institusi_data_version', '1.8');
+    localStorage.setItem('institusi_data_version', '2.1');
   }, [institusiList]);
 
   const updateStatus = (id: string, newStatus: StatusKerjasama) => {
