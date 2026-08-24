@@ -1,0 +1,50 @@
+[
+  {
+    "npsn": "20532145",
+    "nama": "SMK NEGERI 1 SURABAYA",
+    "alamat": "Jl. SMEA No. 4, Wonokromo",
+    "kelurahan": "Wonokromo",
+    "status": "Negeri",
+    "kota": "Kota Surabaya"
+  },
+  {
+    "npsn": "20532210",
+    "nama": "SMK NEGERI 2 SURABAYA",
+    "alamat": "Jl. Tentara Genitri Lor",
+    "kelurahan": "Keputeran",
+    "status": "Negeri",
+    "kota": "Kota Surabaya"
+  },
+  {
+    "npsn": "20532146",
+    "nama": "SMK TELKOM MALANG",
+    "alamat": "Jl. Danau Ranau, Sawojajar",
+    "kelurahan": "Sawojajar",
+    "status": "Swasta",
+    "kota": "Kota Malang"
+  },
+  {
+    "npsn": "20532150",
+    "nama": "SMK NEGERI 1 MALANG",
+    "alamat": "Jl. Sonokembang",
+    "kelurahan": "Klojen",
+    "status": "Negeri",
+    "kota": "Kota Malang"
+  },
+  {
+    "npsn": "20501234",
+    "nama": "SMK NEGERI 1 KEDIRI",
+    "alamat": "Jl. Veteran No. 1",
+    "kelurahan": "Mojoroto",
+    "status": "Negeri",
+    "kota": "Kota Kediri"
+  },
+  {
+    "npsn": "20505678",
+    "nama": "SMK PGRI 1 SIDOARJO",
+    "alamat": "Jl. Jenggolo",
+    "kelurahan": "Pucang",
+    "status": "Swasta",
+    "kota": "Kabupaten Sidoarjo"
+  }
+]

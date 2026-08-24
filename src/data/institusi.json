@@ -1,0 +1,343 @@
+[
+  {
+    "id": "INS0001",
+    "nama": "SMK NEGERI 1 SURABAYA",
+    "jenis": "SMK",
+    "kota": "Kota Surabaya",
+    "alamat": "Jl. SMEA No. 4, Wonokromo",
+    "lat": -7.318018858954845,
+    "lng": 112.82744540582843,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "on_progress",
+    "kontak": {
+      "email": "info.20532145@sch.id",
+      "telepon": "031-7282126"
+    },
+    "kepala_sekolah": {
+      "nama": "Dra. Rini Yulianti",
+      "email": "kepsek.20532145@sch.id",
+      "hp": "081674311839"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20532145@sch.id",
+          "hp": "081121103258"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0002",
+    "nama": "SMK NEGERI 2 SURABAYA",
+    "jenis": "SMK",
+    "kota": "Kota Surabaya",
+    "alamat": "Jl. Tentara Genitri Lor",
+    "lat": -7.736954057393685,
+    "lng": 113.73196717529642,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "on_progress",
+    "kontak": {
+      "email": "info.20532210@sch.id",
+      "telepon": "031-7028496"
+    },
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20532210@sch.id",
+      "hp": "081860665827"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20532210@sch.id",
+          "hp": "081073912484"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0003",
+    "nama": "SMK TELKOM MALANG",
+    "jenis": "SMK",
+    "kota": "Kota Malang",
+    "alamat": "Jl. Danau Ranau, Sawojajar",
+    "lat": -7.921419349032239,
+    "lng": 114.1297699971168,
+    "akreditasi": "A",
+    "status_kepemilikan": "Swasta",
+    "status_kerjasama": "sudah",
+    "kontak": {
+      "email": "info.20532146@sch.id",
+      "telepon": "031-9820408"
+    },
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd., M.Si.",
+      "email": "kepsek.20532146@sch.id",
+      "hp": "081488356613"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20532146@sch.id",
+          "hp": "081110803925"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0004",
+    "nama": "SMK NEGERI 1 MALANG",
+    "jenis": "SMK",
+    "kota": "Kota Malang",
+    "alamat": "Jl. Sonokembang",
+    "lat": -8.185459113237068,
+    "lng": 113.61185921961426,
+    "akreditasi": "B",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "sudah",
+    "kontak": {
+      "email": "info.20532150@sch.id",
+      "telepon": "031-9585082"
+    },
+    "kepala_sekolah": {
+      "nama": "Hendra Gunawan, S.Kom.",
+      "email": "kepsek.20532150@sch.id",
+      "hp": "081583507539"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20532150@sch.id",
+          "hp": "081644857002"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0005",
+    "nama": "SMK NEGERI 1 KEDIRI",
+    "jenis": "SMK",
+    "kota": "Kota Kediri",
+    "alamat": "Jl. Veteran No. 1",
+    "lat": -7.299907529131351,
+    "lng": 112.95922006653215,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "on_progress",
+    "kontak": {
+      "email": "info.20501234@sch.id",
+      "telepon": "031-5281678"
+    },
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd., M.Si.",
+      "email": "kepsek.20501234@sch.id",
+      "hp": "081466835260"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20501234@sch.id",
+          "hp": "081788154900"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0006",
+    "nama": "SMK PGRI 1 SIDOARJO",
+    "jenis": "SMK",
+    "kota": "Kabupaten Sidoarjo",
+    "alamat": "Jl. Jenggolo",
+    "lat": -7.433466033213337,
+    "lng": 114.15575103699138,
+    "akreditasi": "B",
+    "status_kepemilikan": "Swasta",
+    "status_kerjasama": "sudah",
+    "kontak": {
+      "email": "info.20505678@sch.id",
+      "telepon": "031-9510315"
+    },
+    "kepala_sekolah": {
+      "nama": "Hendra Gunawan, S.Kom.",
+      "email": "kepsek.20505678@sch.id",
+      "hp": "081524842159"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20505678@sch.id",
+          "hp": "081832154010"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0007",
+    "nama": "Universitas Brawijaya",
+    "jenis": "Universitas",
+    "kota": "Kota Malang",
+    "alamat": "Universitas Brawijaya, Kota Malang, Jawa Timur",
+    "lat": -7.955,
+    "lng": 112.613,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "on_progress",
+    "kontak": {
+      "email": "info@universitasbrawijaya.ac.id",
+      "telepon": "031-9032716"
+    },
+    "kepala_sekolah": {
+      "nama": "Prof. Dr. Ir. H. Rektor",
+      "email": "rektor@universitasbrawijaya.ac.id",
+      "hp": "081606341473"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Informatika",
+        "kajur": {
+          "nama": "Dr. Dekan Teknik",
+          "email": "ti@universitasbrawijaya.ac.id",
+          "hp": "081690017532"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0008",
+    "nama": "Institut Teknologi Sepuluh Nopember",
+    "jenis": "Universitas",
+    "kota": "Kota Surabaya",
+    "alamat": "Institut Teknologi Sepuluh Nopember, Kota Surabaya, Jawa Timur",
+    "lat": -7.282,
+    "lng": 112.795,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "belum",
+    "kontak": {
+      "email": "info@institutteknologisepuluhnopember.ac.id",
+      "telepon": "031-9393915"
+    },
+    "kepala_sekolah": {
+      "nama": "Prof. Dr. Ir. H. Rektor",
+      "email": "rektor@institutteknologisepuluhnopember.ac.id",
+      "hp": "081359492205"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Informatika",
+        "kajur": {
+          "nama": "Dr. Dekan Teknik",
+          "email": "ti@institutteknologisepuluhnopember.ac.id",
+          "hp": "081314965240"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0009",
+    "nama": "Universitas Airlangga",
+    "jenis": "Universitas",
+    "kota": "Kota Surabaya",
+    "alamat": "Universitas Airlangga, Kota Surabaya, Jawa Timur",
+    "lat": -7.267,
+    "lng": 112.758,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "on_progress",
+    "kontak": {
+      "email": "info@universitasairlangga.ac.id",
+      "telepon": "031-7231369"
+    },
+    "kepala_sekolah": {
+      "nama": "Prof. Dr. Ir. H. Rektor",
+      "email": "rektor@universitasairlangga.ac.id",
+      "hp": "081589063995"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Informatika",
+        "kajur": {
+          "nama": "Dr. Dekan Teknik",
+          "email": "ti@universitasairlangga.ac.id",
+          "hp": "081183707943"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0010",
+    "nama": "Universitas Muhammadiyah Malang",
+    "jenis": "Universitas",
+    "kota": "Kota Malang",
+    "alamat": "Universitas Muhammadiyah Malang, Kota Malang, Jawa Timur",
+    "lat": -7.922,
+    "lng": 112.597,
+    "akreditasi": "A",
+    "status_kepemilikan": "Swasta",
+    "status_kerjasama": "on_progress",
+    "kontak": {
+      "email": "info@universitasmuhammadiyahmalang.ac.id",
+      "telepon": "031-9561015"
+    },
+    "kepala_sekolah": {
+      "nama": "Prof. Dr. Ir. H. Rektor",
+      "email": "rektor@universitasmuhammadiyahmalang.ac.id",
+      "hp": "081448644642"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Informatika",
+        "kajur": {
+          "nama": "Dr. Dekan Teknik",
+          "email": "ti@universitasmuhammadiyahmalang.ac.id",
+          "hp": "081203833370"
+        }
+      }
+    ]
+  },
+  {
+    "id": "INS0011",
+    "nama": "Universitas Negeri Surabaya",
+    "jenis": "Universitas",
+    "kota": "Kota Surabaya",
+    "alamat": "Universitas Negeri Surabaya, Kota Surabaya, Jawa Timur",
+    "lat": -7.3,
+    "lng": 112.716,
+    "akreditasi": "A",
+    "status_kepemilikan": "Negeri",
+    "status_kerjasama": "belum",
+    "kontak": {
+      "email": "info@universitasnegerisurabaya.ac.id",
+      "telepon": "031-9830243"
+    },
+    "kepala_sekolah": {
+      "nama": "Prof. Dr. Ir. H. Rektor",
+      "email": "rektor@universitasnegerisurabaya.ac.id",
+      "hp": "081671442391"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Informatika",
+        "kajur": {
+          "nama": "Dr. Dekan Teknik",
+          "email": "ti@universitasnegerisurabaya.ac.id",
+          "hp": "081332161342"
+        }
+      }
+    ]
+  }
+]

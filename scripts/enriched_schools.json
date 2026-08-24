@@ -1,0 +1,140 @@
+[
+  {
+    "npsn": "20532145",
+    "nama": "SMK NEGERI 1 SURABAYA",
+    "alamat": "Jl. SMEA No. 4, Wonokromo",
+    "kelurahan": "Wonokromo",
+    "status": "Negeri",
+    "kota": "Kota Surabaya",
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Dra. Rini Yulianti",
+      "email": "kepsek.20532145@sch.id",
+      "hp": "081674311839"
+    },
+    "kontak": {
+      "email": "info.20532145@sch.id",
+      "telepon": "031-7282126"
+    },
+    "kajur_tkj": {
+      "nama": "Dian Permatasari, S.Kom.",
+      "email": "tkj.20532145@sch.id",
+      "hp": "081121103258"
+    }
+  },
+  {
+    "npsn": "20532210",
+    "nama": "SMK NEGERI 2 SURABAYA",
+    "alamat": "Jl. Tentara Genitri Lor",
+    "kelurahan": "Keputeran",
+    "status": "Negeri",
+    "kota": "Kota Surabaya",
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20532210@sch.id",
+      "hp": "081860665827"
+    },
+    "kontak": {
+      "email": "info.20532210@sch.id",
+      "telepon": "031-7028496"
+    },
+    "kajur_tkj": {
+      "nama": "Dian Permatasari, S.Kom.",
+      "email": "tkj.20532210@sch.id",
+      "hp": "081073912484"
+    }
+  },
+  {
+    "npsn": "20532146",
+    "nama": "SMK TELKOM MALANG",
+    "alamat": "Jl. Danau Ranau, Sawojajar",
+    "kelurahan": "Sawojajar",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd., M.Si.",
+      "email": "kepsek.20532146@sch.id",
+      "hp": "081488356613"
+    },
+    "kontak": {
+      "email": "info.20532146@sch.id",
+      "telepon": "031-9820408"
+    },
+    "kajur_tkj": {
+      "nama": "Dian Permatasari, S.Kom.",
+      "email": "tkj.20532146@sch.id",
+      "hp": "081110803925"
+    }
+  },
+  {
+    "npsn": "20532150",
+    "nama": "SMK NEGERI 1 MALANG",
+    "alamat": "Jl. Sonokembang",
+    "kelurahan": "Klojen",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Hendra Gunawan, S.Kom.",
+      "email": "kepsek.20532150@sch.id",
+      "hp": "081583507539"
+    },
+    "kontak": {
+      "email": "info.20532150@sch.id",
+      "telepon": "031-9585082"
+    },
+    "kajur_tkj": {
+      "nama": "Dian Permatasari, S.Kom.",
+      "email": "tkj.20532150@sch.id",
+      "hp": "081644857002"
+    }
+  },
+  {
+    "npsn": "20501234",
+    "nama": "SMK NEGERI 1 KEDIRI",
+    "alamat": "Jl. Veteran No. 1",
+    "kelurahan": "Mojoroto",
+    "status": "Negeri",
+    "kota": "Kota Kediri",
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd., M.Si.",
+      "email": "kepsek.20501234@sch.id",
+      "hp": "081466835260"
+    },
+    "kontak": {
+      "email": "info.20501234@sch.id",
+      "telepon": "031-5281678"
+    },
+    "kajur_tkj": {
+      "nama": "Dian Permatasari, S.Kom.",
+      "email": "tkj.20501234@sch.id",
+      "hp": "081788154900"
+    }
+  },
+  {
+    "npsn": "20505678",
+    "nama": "SMK PGRI 1 SIDOARJO",
+    "alamat": "Jl. Jenggolo",
+    "kelurahan": "Pucang",
+    "status": "Swasta",
+    "kota": "Kabupaten Sidoarjo",
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Hendra Gunawan, S.Kom.",
+      "email": "kepsek.20505678@sch.id",
+      "hp": "081524842159"
+    },
+    "kontak": {
+      "email": "info.20505678@sch.id",
+      "telepon": "031-9510315"
+    },
+    "kajur_tkj": {
+      "nama": "Dian Permatasari, S.Kom.",
+      "email": "tkj.20505678@sch.id",
+      "hp": "081832154010"
+    }
+  }
+]

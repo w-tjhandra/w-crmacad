@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --color-primary: #3b82f6;
+  --color-secondary: #10b981;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #1e293b;
+  background-color: #f8fafc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: #f8fafc;
+    background-color: #0f172a;
+  }
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Fix for leaflet popup in dark mode / tailwind reset */
+.leaflet-container {
+  font-family: inherit;
+}
+.leaflet-popup-content-wrapper {
+  color: #1e293b;
+}
