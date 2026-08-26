@@ -4,7 +4,7 @@
 
 **CRM MikroTik Academy** adalah sebuah platform *Customer Relationship Management* (CRM) berbasis web yang dirancang khusus untuk memetakan, mengelola, dan memprospek institusi pendidikan (terutama SMK dan Perguruan Tinggi) sebagai kandidat mitra MikroTik Academy. 
 
-Aplikasi ini menyajikan visualisasi data institusi secara geografis (peta interaktif) maupun tabular, dilengkapi dengan *pipeline* otomatis untuk menarik data langsung dari sumber resmi pemerintah.
+Aplikasi ini menyajikan visualisasi data institusi secara geografis (peta interaktif) maupun tabular, dilengkapi dengan *pipeline* otomatis untuk menarik data langsung dari sumber resmi pemerintah. Kini dilengkapi sistem *backend* Golang untuk mencetak langsung proposal/surat penawaran dalam format DOCX maupun PDF yang 100% presisi.
 
 ---
 
@@ -12,12 +12,10 @@ Aplikasi ini menyajikan visualisasi data institusi secara geografis (peta intera
 
 - **🗺️ Interactive Prospecting Map:** Pemetaan geografis institusi menggunakan Leaflet. Sangat berguna untuk melihat sebaran sekolah/kampus di suatu wilayah.
 - **📋 Dashboard Manajemen Data:** Tampilan ala *spreadsheet* yang komprehensif untuk mengelola prospek secara terpusat.
-- **🎯 Filter Multi-Dimensi:** Penyaringan data secara *real-time* yang disinkronkan di seluruh komponen aplikasi. Anda bisa memfilter berdasarkan:
-  - **Kota / Kabupaten** (khusus Jawa Timur)
-  - **Kategori Institusi** (SMK, PTN, PTS, Semua)
-  - **Status Kerjasama** (Sudah, On Progress, Belum)
-- **🤖 Automated Data Pipeline (Scraping & API):** Dilengkapi dengan rangkaian skrip Node.js (pada *folder* `scripts/`) yang bertugas mengunduh ribuan data sekolah (SMK di Jawa Timur) beserta koordinat presisinya menggunakan kombinasi API Data Sekolah Indonesia dan OpenStreetMap Nominatim.
-- **💾 Persistent State:** Data aplikasi dan preferensi filter disimpan menggunakan `localStorage` dengan dukungan *versioning* sistem.
+- **🎯 Filter Multi-Dimensi:** Penyaringan data secara *real-time* berdasarkan Kota/Kabupaten, Kategori, dan Status Kerjasama.
+- **📄 Otomatisasi Surat Penawaran:** Fitur pembuatan (generate) surat penawaran otomatis berdasarkan template Ms. Word (`.docx`). Sistem dapat memberikan output langsung berupa `.docx` atau secara *seamless* diubah menjadi `.pdf` melalui *backend microservice*.
+- **🤖 Automated Data Pipeline (Scraping & API):** Dilengkapi skrip Puppeteer (Node.js) canggih yang bertugas mem-validasi jurusan TKJ secara otomatis, memastikan *prospecting* akurat dari data kementerian.
+- **💾 Persistent State:** Data aplikasi disimpan menggunakan mekanisme *local storage* untuk sesi cepat.
 
 ---
 
@@ -28,72 +26,83 @@ Aplikasi ini menyajikan visualisasi data institusi secara geografis (peta intera
 - [Vite](https://vitejs.dev/) (Build tool super cepat)
 - [Tailwind CSS v4](https://tailwindcss.com/) (Framework CSS utilitas)
 - [React Leaflet](https://react-leaflet.js.org/) (Sistem Peta)
-- [Lucide React](https://lucide.dev/) (Library Ikon)
+- [Docxtemplater](https://docxtemplater.com/) (Template Engine DOCX)
+
+**Backend Microservice (Konversi PDF):**
+- **Golang** (Go 1.20+)
+- **Gin Web Framework**
+- **LibreOffice Headless** (Sebagai mesin *rendering* PDF)
 
 **Data Pipeline (Node.js Scripts):**
-- **Puppeteer** (Browser Automation)
-- **Node `https` module & REST APIs**
+- **Puppeteer** & **Puppeteer Extra Stealth** (Browser Automation)
 
 ---
 
 ## 🚀 Cara Menjalankan (Development)
 
+Karena sistem aplikasi kini menggunakan *Frontend* dan *Backend* terpisah, Anda harus menjalankan keduanya.
+
 ### 1. Prasyarat Sistem
 Pastikan komputer Anda sudah terinstal:
-- [Node.js](https://nodejs.org/en/) (Versi 16 atau lebih baru)
-- Git
+- [Node.js](https://nodejs.org/en/)
+- [Golang](https://go.dev/)
+- **LibreOffice** (Diperlukan oleh *backend* untuk konversi PDF)
 
-### 2. Instalasi Dependensi
-Jalankan perintah berikut di dalam terminal pada direktori proyek Anda:
+### 2. Instalasi Dependensi (Frontend)
 ```bash
 npm install
 ```
 
-### 3. Menjalankan Server Lokal (Vite)
+### 3. Menjalankan Server
+Buka **dua jendela terminal** terpisah:
+
+**Terminal 1 (Menjalankan Frontend Web):**
 ```bash
 npm run dev
 ```
-Buka URL `http://localhost:5173` di browser Anda untuk melihat aplikasi yang sedang berjalan.
+Akses melalui: `http://localhost:5173`
+
+**Terminal 2 (Menjalankan Backend Konversi Golang):**
+```bash
+cd backend
+go run main.go
+```
+Backend berjalan di port `http://localhost:8080`. Tanpa backend ini, fitur *Export to PDF* di Dashboard tidak akan berfungsi (namun unduh `.docx` tetap berjalan).
 
 ---
 
 ## 🔄 Pembaruan Data (Scraping Pipeline)
 
-Jika Anda ingin memperbarui data institusi secara otomatis dari sumber pusat (Dapodik/Kemendikbud), Anda dapat menjalankan *script pipeline* yang sudah kami sediakan. 
+Pipeline data bertugas memvalidasi keberadaan Jurusan IT (TKJ) dari database sekolah sebelum dimasukkan ke dalam sistem CRM.
 
-Pipeline ini akan mengambil daftar ~2000 SMK di Jatim (via API), melakukan simulasi pengayaan data (Dapodik), dan merangkainya menjadi satu file JSON.
-
-Jalankan perintah berikut secara berurutan:
+Jalankan perintah berikut:
 ```bash
-# 1. Mengunduh raw data SMK se-Jawa Timur beserta titik koordinat
-node scripts/scrape_kemendikdasmen.cjs
-
-# 2. Pengayaan / Validasi detail Kepala Sekolah dan Guru Jurusan
+# Melakukan scraping detail (memverifikasi jurusan dan kontak)
 node scripts/scrape_dapo_details.cjs
 
-# 3. Menggabungkan data sekolah dengan fallback Perguruan Tinggi
+# Membangun struktur database (institusi.json) yang difilter khusus TKJ
 node scripts/build_institusi.cjs
 ```
-Data final akan otomatis tersimpan di `src/data/institusi.json`. **Catatan:** Setelah melakukan langkah ini, pastikan versi `localStorage` (di `InstitusiContext.tsx`) ditingkatkan agar *browser* memuat data terbaru.
+Data final akan otomatis tersimpan di `src/data/institusi.json`. 
 
 ---
 
 ## 📂 Struktur Folder Penting
 
 ```text
-├── public/                # Aset statis yang tidak dikompilasi (seperti favicon)
-├── scripts/               # Kumpulan skrip Pipeline untuk Scraping & Pengolahan Data otomatis
+├── backend/               # Microservice Golang untuk konversi DOCX ke PDF
+│   └── main.go
+├── public/                
+│   └── templates/         # Tempat menaruh Master Template Surat (.docx)
+├── scripts/               # Pipeline Data Puppeteer
 ├── src/
-│   ├── assets/            # Gambar dan aset lokal UI
-│   ├── components/        # Komponen React modular (Peta, Dashboard, Sidebar, dll)
-│   ├── context/           # React Context (InstitusiContext, AuthContext) untuk state global
-│   ├── data/              # Sumber Data Utama (institusi.json)
-│   ├── main.tsx           # Entry point React
-│   └── index.css          # Core Styling Tailwind
-├── .gitignore
+│   ├── assets/            
+│   ├── components/        # Peta, Dashboard Modal (Logika Export PDF/DOCX)
+│   ├── context/           # Filter State dan Automasi
+│   ├── data/              # institusi.json
+│   └── main.tsx           
 ├── package.json
-├── tailwind.config.js     # Konfigurasi Tailwind (jika ada)
-└── vite.config.ts         # Konfigurasi Vite
+└── vite.config.ts         
 ```
 
 ---
