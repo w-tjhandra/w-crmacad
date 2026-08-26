@@ -41,12 +41,7 @@ const OUTPUT_FILE = path.join(__dirname, '../src/data/institusi.json');
       status_kerjasama: status_kerjasama,
       kontak: school.kontak,
       kepala_sekolah: school.kepala_sekolah,
-      jurusan: [
-        {
-          nama: "Teknik Komputer dan Jaringan",
-          kajur: school.kajur_tkj
-        }
-      ]
+      jurusan: school.jurusan || []
     });
   }
 

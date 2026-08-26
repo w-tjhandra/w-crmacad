@@ -1,5 +1,10 @@
+import { useState } from 'react';
 import { useInstitusi, type StatusKerjasama } from '../context/InstitusiContext';
-import { X } from 'lucide-react';
+import { X, FileSpreadsheet, FileText, Loader2 } from 'lucide-react';
+import * as XLSX from 'xlsx';
+import Docxtemplater from 'docxtemplater';
+import PizZip from 'pizzip';
+import { saveAs } from 'file-saver';
 
 interface DashboardModalProps {
   onClose: () => void;
@@ -29,17 +34,124 @@ export default function DashboardModal({ onClose }: DashboardModalProps) {
     setFilterStatus
   } = useInstitusi();
 
+  const [isGenerating, setIsGenerating] = useState<string | null>(null);
+
   // Extract unique cities from the original list
   const cities = Array.from(new Set(institusiList.map(i => i.kota))).sort();
+
+  const exportToExcel = () => {
+    // Siapkan data untuk diexport
+    const exportData = filteredInstitusi.map((item, index) => ({
+      'No': index + 1,
+      'ID Institusi': item.id,
+      'Nama Institusi': item.nama,
+      'Kategori': item.jenis,
+      'Kota/Kabupaten': item.kota,
+      'Alamat Lengkap': item.alamat,
+      'Status Kepemilikan': item.status_kepemilikan === 'N' ? 'Negeri' : (item.status_kepemilikan === 'S' ? 'Swasta' : item.status_kepemilikan),
+      'Akreditasi': item.akreditasi || '-',
+      'Status Kerjasama': STATUS_LABELS[item.status_kerjasama],
+      'Nama Kepala Sekolah/Rektor': item.kepala_sekolah?.nama || '-',
+      'No. HP Pimpinan': item.kepala_sekolah?.hp || '-',
+      'Email Pimpinan': item.kepala_sekolah?.email || '-',
+      'Kontak Institusi (Telp)': item.kontak?.telepon || '-',
+      'Email Institusi': item.kontak?.email || '-',
+      'Titik Koordinat (Lat, Lng)': `${item.lat}, ${item.lng}`
+    }));
+
+    const worksheet = XLSX.utils.json_to_sheet(exportData);
+    
+    // Atur lebar kolom agar rapi
+    const colWidths = [
+      { wch: 5 }, { wch: 12 }, { wch: 35 }, { wch: 12 }, { wch: 20 }, 
+      { wch: 40 }, { wch: 18 }, { wch: 12 }, { wch: 18 }, { wch: 25 }, 
+      { wch: 15 }, { wch: 25 }, { wch: 20 }, { wch: 25 }, { wch: 25 }
+    ];
+    worksheet['!cols'] = colWidths;
+
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, 'Data Prospek CRM');
+
+    // Generate dan download file excel
+    XLSX.writeFile(workbook, 'Data_Prospek_CRM_Academy.xlsx');
+  };
+
+  const generateProposal = async (institusi: any, format: 'docx' | 'pdf') => {
+    setIsGenerating(institusi.id);
+    try {
+      // 1. Ambil template docx
+      const response = await fetch('/templates/Template Surat Penawaran MikroTik Academy.docx');
+      if (!response.ok) throw new Error('Template tidak ditemukan');
+      
+      const content = await response.arrayBuffer();
+
+      // 2. Isi data menggunakan docxtemplater
+      const zip = new PizZip(content);
+      const doc = new Docxtemplater(zip, {
+        paragraphLoop: true,
+        linebreaks: true,
+      });
+
+      doc.render({
+        'NAMA SEKOLAH': institusi.nama,
+        'ALAMAT SEKOLAH': institusi.alamat || institusi.kota,
+        'NOMOR SURAT/MA/MONTH/YEAR': `0${institusi.id.replace('INS', '')}/MA/${new Date().getMonth() + 1}/${new Date().getFullYear()}`,
+        'link pendaftaran/coming soon': 'coming soon'
+      });
+
+      const out = doc.getZip().generate({
+        type: 'blob',
+        mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+      });
+
+      const safeName = institusi.nama.replace(/[^a-zA-Z0-9]/g, '_');
+
+      // Jika user minta DOCX, langsung download saja tanpa melalui backend
+      if (format === 'docx') {
+        saveAs(out, `Surat_Penawaran_${safeName}.docx`);
+        return;
+      }
+
+      // Jika user minta PDF, kirim DOCX ke Backend Golang untuk dikonversi menjadi PDF
+      const formData = new FormData();
+      formData.append('document', out, `Surat_${safeName}.docx`);
+
+      const convertRes = await fetch('http://localhost:8080/convert', {
+        method: 'POST',
+        body: formData
+      });
+
+      if (!convertRes.ok) throw new Error('Gagal mengonversi dokumen di server');
+
+      // 4. Download hasil PDF
+      const pdfBlob = await convertRes.blob();
+      saveAs(pdfBlob, `Surat_Penawaran_${safeName}.pdf`);
+
+    } catch (error) {
+      console.error('Error generating document:', error);
+      alert('Gagal membuat surat penawaran PDF. Pastikan backend server (Golang) sudah berjalan di port 8080.');
+    } finally {
+      setIsGenerating(null);
+    }
+  };
 
   return (
     <div className="fixed inset-0 bg-slate-900/50 z-50 flex items-center justify-center p-4">
       <div className="bg-white rounded-xl shadow-xl w-full max-w-6xl max-h-[90vh] flex flex-col">
         <div className="flex items-center justify-between p-4 border-b border-slate-200">
           <h2 className="text-lg font-bold text-slate-800">Data Institusi</h2>
-          <button onClick={onClose} className="p-1 hover:bg-slate-100 rounded-full text-slate-500">
-            <X size={20} />
-          </button>
+          <div className="flex items-center gap-3">
+            <button 
+              onClick={exportToExcel}
+              className="flex items-center gap-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-sm font-medium rounded-md transition-colors shadow-sm"
+            >
+              <FileSpreadsheet size={16} />
+              Export Excel
+            </button>
+            <button onClick={onClose} className="p-1 hover:bg-slate-100 rounded-full text-slate-500 transition-colors">
+              <X size={20} />
+            </button>
+          </div>
         </div>
         
         <div className="p-4 border-b border-slate-100 bg-slate-50 flex flex-wrap gap-4 items-center">
@@ -101,12 +213,13 @@ export default function DashboardModal({ onClose }: DashboardModalProps) {
                 <th className="px-4 py-3 border-b">Status Kerjasama</th>
                 <th className="px-4 py-3 border-b">Kepala Sekolah/Rektor</th>
                 <th className="px-4 py-3 border-b">Telepon</th>
+                <th className="px-4 py-3 border-b text-center">Aksi (Penawaran)</th>
               </tr>
             </thead>
             <tbody>
               {filteredInstitusi.length === 0 ? (
                 <tr>
-                  <td colSpan={7} className="px-4 py-8 text-center text-slate-500">
+                  <td colSpan={8} className="px-4 py-8 text-center text-slate-500">
                     Tidak ada data yang sesuai dengan filter.
                   </td>
                 </tr>
@@ -124,6 +237,26 @@ export default function DashboardModal({ onClose }: DashboardModalProps) {
                     </td>
                     <td className="px-4 py-3">{institusi.kepala_sekolah?.nama || '-'}</td>
                     <td className="px-4 py-3">{institusi.kontak?.telepon || '-'}</td>
+                    <td className="px-4 py-3 text-center">
+                      <div className="flex items-center justify-center gap-1.5">
+                        <button
+                          onClick={() => generateProposal(institusi, 'docx')}
+                          disabled={isGenerating === institusi.id}
+                          className="inline-flex items-center gap-1.5 px-2.5 py-1 bg-blue-50 text-blue-600 hover:bg-blue-100 border border-blue-200 rounded text-[11px] font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed w-[65px] justify-center"
+                          title="Download DOCX"
+                        >
+                          {isGenerating === institusi.id ? <Loader2 size={12} className="animate-spin" /> : 'DOCX'}
+                        </button>
+                        <button
+                          onClick={() => generateProposal(institusi, 'pdf')}
+                          disabled={isGenerating === institusi.id}
+                          className="inline-flex items-center gap-1.5 px-2.5 py-1 bg-rose-50 text-rose-600 hover:bg-rose-100 border border-rose-200 rounded text-[11px] font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed w-[65px] justify-center"
+                          title="Convert to PDF via Server"
+                        >
+                          {isGenerating === institusi.id ? <Loader2 size={12} className="animate-spin" /> : 'PDF'}
+                        </button>
+                      </div>
+                    </td>
                   </tr>
                 ))
               )}

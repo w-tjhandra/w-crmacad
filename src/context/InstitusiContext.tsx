@@ -60,10 +60,33 @@ export function InstitusiProvider({ children }: { children: ReactNode }) {
   const [institusiList, setInstitusiList] = useState<Institusi[]>(() => {
     const saved = localStorage.getItem('institusi_data');
     const version = localStorage.getItem('institusi_data_version');
-    if (saved && version === '2.1') {
+    
+    // Filter function to ensure only TKJ schools are kept
+    const filterTKJ = (data: Institusi[]) => {
+      return data.filter(inst => {
+        // Universitas / PTN / PTS biasanya tidak punya 'jurusan' dengan format SMK, 
+        // tapi jika ingin di-keep, bisa diatur. Asumsinya MikroTik Academy fokus ke SMK/Kampus.
+        // Jika Universitas tetap diizinkan tanpa filter jurusan, beri pengecualian.
+        if (inst.jenis === 'Universitas') return true;
+        
+        // Untuk SMK, wajib punya jurusan TKJ
+        if (!inst.jurusan || inst.jurusan.length === 0) return false;
+        
+        return inst.jurusan.some(j => {
+          const namaJurusan = j.nama.toLowerCase();
+          return namaJurusan.includes('tkj') || 
+                 namaJurusan.includes('teknik komputer dan jaringan') ||
+                 namaJurusan.includes('sistem informasi') || 
+                 namaJurusan.includes('informatika');
+        });
+      });
+    };
+
+    if (saved && version === '2.3') {
       return JSON.parse(saved);
     }
-    return initialData as Institusi[];
+    
+    return filterTKJ(initialData as Institusi[]);
   });
 
   const [searchTerm, setSearchTerm] = useState('');
@@ -74,7 +97,7 @@ export function InstitusiProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     localStorage.setItem('institusi_data', JSON.stringify(institusiList));
-    localStorage.setItem('institusi_data_version', '2.1');
+    localStorage.setItem('institusi_data_version', '2.3');
   }, [institusiList]);
 
   const updateStatus = (id: string, newStatus: StatusKerjasama) => {
