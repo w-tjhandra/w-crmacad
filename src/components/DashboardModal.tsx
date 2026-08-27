@@ -212,6 +212,7 @@ export default function DashboardModal({ onClose }: DashboardModalProps) {
                 <th className="px-4 py-3 border-b">Kepemilikan</th>
                 <th className="px-4 py-3 border-b">Status Kerjasama</th>
                 <th className="px-4 py-3 border-b">Kepala Sekolah/Rektor</th>
+                <th className="px-4 py-3 border-b">Email</th>
                 <th className="px-4 py-3 border-b">Telepon</th>
                 <th className="px-4 py-3 border-b text-center">Aksi (Penawaran)</th>
               </tr>
@@ -219,7 +220,7 @@ export default function DashboardModal({ onClose }: DashboardModalProps) {
             <tbody>
               {filteredInstitusi.length === 0 ? (
                 <tr>
-                  <td colSpan={8} className="px-4 py-8 text-center text-slate-500">
+                  <td colSpan={9} className="px-4 py-8 text-center text-slate-500">
                     Tidak ada data yang sesuai dengan filter.
                   </td>
                 </tr>
@@ -236,6 +237,20 @@ export default function DashboardModal({ onClose }: DashboardModalProps) {
                       </span>
                     </td>
                     <td className="px-4 py-3">{institusi.kepala_sekolah?.nama || '-'}</td>
+                    <td className="px-4 py-3">
+                      {institusi.kontak?.email && institusi.kontak.email !== '-' ? (
+                        <div className="flex flex-col gap-1">
+                          <span className={institusi.kontak.is_email_valid === false ? 'text-slate-500 line-through' : 'text-blue-600'}>
+                            {institusi.kontak.email}
+                          </span>
+                          {institusi.kontak.is_email_valid === false && (
+                            <span className="text-[10px] font-medium px-1.5 py-0.5 bg-red-100 text-red-600 rounded-sm w-fit">
+                              Tidak Aktif
+                            </span>
+                          )}
+                        </div>
+                      ) : '-'}
+                    </td>
                     <td className="px-4 py-3">{institusi.kontak?.telepon || '-'}</td>
                     <td className="px-4 py-3 text-center">
                       <div className="flex items-center justify-center gap-1.5">

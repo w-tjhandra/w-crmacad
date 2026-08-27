@@ -1,13 +1,15 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import accountsData from '../data/accounts.json';
 
 export interface User {
+  username: string;
   name: string;
   role: string;
 }
 
 interface AuthContextType {
   user: User | null;
-  login: (name: string, role: string) => void;
+  login: (username: string, password: string) => boolean;
   logout: () => void;
 }
 
@@ -27,8 +29,20 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     }
   }, [user]);
 
-  const login = (name: string, role: string) => {
-    setUser({ name, role });
+  const login = (username: string, password: string): boolean => {
+    const account = accountsData.find(
+      (acc) => acc.username === username && acc.password === password
+    );
+
+    if (account) {
+      setUser({
+        username: account.username,
+        name: account.name,
+        role: account.role
+      });
+      return true;
+    }
+    return false;
   };
 
   const logout = () => {

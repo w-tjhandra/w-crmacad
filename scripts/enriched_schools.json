@@ -52921,5 +52921,4865 @@
         }
       }
     ]
+  },
+  {
+    "npsn": "20540218",
+    "nama": "SMKS SHALAHUDDIN 2 MALANG",
+    "alamat": "JL. DIPONEGORO NO. 1 MALANG",
+    "kelurahan": "Klojen",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.97,
+    "lng": 112.6323,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20540218@sch.id",
+      "hp": "081564494297"
+    },
+    "kontak": {
+      "email": "info.20540218@sch.id",
+      "telepon": "031-8589403"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20540218@sch.id",
+          "hp": "081764031924"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534194",
+    "nama": "SMKS PGRI 2 MADIUN",
+    "alamat": "JALAN PILANG WERDA NO 51 MADIUN",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6235,
+    "lng": 111.5206,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534194@sch.id",
+      "hp": "081680005077"
+    },
+    "kontak": {
+      "email": "info.20534194@sch.id",
+      "telepon": "031-7342449"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534194@sch.id",
+          "hp": "081736603008"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20568499",
+    "nama": "SMK KESEHATAN SURABAYA",
+    "alamat": "JL. MEDOKAN SEMAMPIR INDAH NO.27 SURABAYA",
+    "kelurahan": "Sukolilo",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.2942,
+    "lng": 112.7625,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20568499@sch.id",
+      "hp": "081817721127"
+    },
+    "kontak": {
+      "email": "info.20568499@sch.id",
+      "telepon": "031-9216054"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20568499@sch.id",
+          "hp": "081519285540"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534185",
+    "nama": "SMKS PGRI 1 MADIUN",
+    "alamat": "JL. CANDI BOKO NO. 10 MADIUN",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6077,
+    "lng": 111.5286,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534185@sch.id",
+      "hp": "081259379114"
+    },
+    "kontak": {
+      "email": "info.20534185@sch.id",
+      "telepon": "031-5069001"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534185@sch.id",
+          "hp": "081223764878"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20539747",
+    "nama": "SMKS ARDJUNA 01 KOTA MALANG",
+    "alamat": "JL. RADEN TUMENGGUNG SOERJO 37",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9632,
+    "lng": 112.6403,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20539747@sch.id",
+      "hp": "081447633382"
+    },
+    "kontak": {
+      "email": "info.20539747@sch.id",
+      "telepon": "031-7681910"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20539747@sch.id",
+          "hp": "081837337879"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534180",
+    "nama": "SMKS KUSUMA TERATE MADIUN",
+    "alamat": "JL. MERAK MADIUN",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6462,
+    "lng": 111.5151,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534180@sch.id",
+      "hp": "081761556150"
+    },
+    "kontak": {
+      "email": "info.20534180@sch.id",
+      "telepon": "031-7562058"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534180@sch.id",
+          "hp": "081285945065"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534363",
+    "nama": "SMKS PELAYARAN HANG TUAH KEDIRI",
+    "alamat": "Jl. Semeru VI No.18B Campurejo - Mojoroto - Kota Kediri",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8262,
+    "lng": 111.9913,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534363@sch.id",
+      "hp": "081413133829"
+    },
+    "kontak": {
+      "email": "info.20534363@sch.id",
+      "telepon": "031-5888234"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534363@sch.id",
+          "hp": "081550538828"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533813",
+    "nama": "SMKN 1 MALANG",
+    "alamat": "JL. SONOKEMBANG / JANTI",
+    "kelurahan": "Sukun",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -8.0028,
+    "lng": 112.6272,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533813@sch.id",
+      "hp": "081603329462"
+    },
+    "kontak": {
+      "email": "info.20533813@sch.id",
+      "telepon": "031-7900134"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533813@sch.id",
+          "hp": "081420854009"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533802",
+    "nama": "SMKS TARUNA BHAKTI",
+    "alamat": "JL. KEDAWUNG 72 MALANG",
+    "kelurahan": "Lowokwaru",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9514,
+    "lng": 112.6337,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533802@sch.id",
+      "hp": "081818696671"
+    },
+    "kontak": {
+      "email": "info.20533802@sch.id",
+      "telepon": "031-3793884"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533802@sch.id",
+          "hp": "081201277756"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534184",
+    "nama": "SMKS PENERBANGAN ANTARIKSA MADIUN",
+    "alamat": "JL. MAYJEN PANJAITAN NO 12",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6507,
+    "lng": 111.5303,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534184@sch.id",
+      "hp": "081269802577"
+    },
+    "kontak": {
+      "email": "info.20534184@sch.id",
+      "telepon": "031-7397917"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534184@sch.id",
+          "hp": "081690668792"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534407",
+    "nama": "SMKS PAWYATAN DAHA 1 KEDIRI",
+    "alamat": "JL. SLAMET RIYADI NO. 66",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8207,
+    "lng": 112.0241,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534407@sch.id",
+      "hp": "081763571442"
+    },
+    "kontak": {
+      "email": "info.20534407@sch.id",
+      "telepon": "031-7790847"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534407@sch.id",
+          "hp": "081285956380"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534192",
+    "nama": "SMKS PGRI 4 MADIUN",
+    "alamat": "JL. MANGKU PRJAN II NO. 2",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.66,
+    "lng": 111.5224,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534192@sch.id",
+      "hp": "081639111654"
+    },
+    "kontak": {
+      "email": "info.20534192@sch.id",
+      "telepon": "031-3392732"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534192@sch.id",
+          "hp": "081806582422"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533668",
+    "nama": "SMKS KARTIKA IV 1 MALANG",
+    "alamat": "JL. KESATRIAN NO. 1A MALANG",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9789,
+    "lng": 112.6424,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533668@sch.id",
+      "hp": "081259415877"
+    },
+    "kontak": {
+      "email": "info.20533668@sch.id",
+      "telepon": "031-6662029"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533668@sch.id",
+          "hp": "081344780059"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533648",
+    "nama": "SMKS BINA BANGSA MALANG",
+    "alamat": "JL. DR. WAHIDIN 64 MALANG",
+    "kelurahan": "Klojen",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9681,
+    "lng": 112.6362,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533648@sch.id",
+      "hp": "081243300163"
+    },
+    "kontak": {
+      "email": "info.20533648@sch.id",
+      "telepon": "031-6526888"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20533648@sch.id",
+          "hp": "081795169561"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534174",
+    "nama": "SMKS VICTORIQOT MADIUN",
+    "alamat": "JL. MAYJEN SUNGKONO NO. 33 B",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6395,
+    "lng": 111.5148,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534174@sch.id",
+      "hp": "081434084910"
+    },
+    "kontak": {
+      "email": "info.20534174@sch.id",
+      "telepon": "031-1480764"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534174@sch.id",
+          "hp": "081760588578"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534189",
+    "nama": "SMKS ST BONAVENTURA 1 MADIUN",
+    "alamat": "JL. P. SUDIRMAN NO.83 B MADIUN",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6319,
+    "lng": 111.5234,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534189@sch.id",
+      "hp": "081656722954"
+    },
+    "kontak": {
+      "email": "info.20534189@sch.id",
+      "telepon": "031-7184271"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534189@sch.id",
+          "hp": "081147729857"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534175",
+    "nama": "SMKN 5 MADIUN",
+    "alamat": "JL. MERAK 5 MADIUN",
+    "kelurahan": "Manguharjo",
+    "status": "Negeri",
+    "kota": "Kota Madiun",
+    "lat": -7.6482,
+    "lng": 111.5169,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534175@sch.id",
+      "hp": "081014956937"
+    },
+    "kontak": {
+      "email": "info.20534175@sch.id",
+      "telepon": "031-8676733"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534175@sch.id",
+          "hp": "081062442712"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20573861",
+    "nama": "SMKS WACHID HASYIM 2 SURABAYA",
+    "alamat": "JL. RAYA SEMEMI NO. 7",
+    "kelurahan": "Benowo",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.233,
+    "lng": 112.76,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20573861@sch.id",
+      "hp": "081440112466"
+    },
+    "kontak": {
+      "email": "info.20573861@sch.id",
+      "telepon": "031-9977976"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20573861@sch.id",
+          "hp": "081873308797"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534405",
+    "nama": "SMKS PGRI 3 KEDIRI",
+    "alamat": "JL. KH. ACHMAD DAHLAN  GG 1 NO 6",
+    "kelurahan": "Mojoroto",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8,
+    "lng": 112.0021,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534405@sch.id",
+      "hp": "081720620507"
+    },
+    "kontak": {
+      "email": "info.20534405@sch.id",
+      "telepon": "031-6029831"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534405@sch.id",
+          "hp": "081679451615"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533807",
+    "nama": "SMKS YP 17 2 MALANG",
+    "alamat": "JL. MELATI UTARA NO. 65 MALANG",
+    "kelurahan": "Lowokwaru",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9514,
+    "lng": 112.6316,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533807@sch.id",
+      "hp": "081558447085"
+    },
+    "kontak": {
+      "email": "info.20533807@sch.id",
+      "telepon": "031-4775262"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533807@sch.id",
+          "hp": "081869304641"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69812068",
+    "nama": "SMK SITI AMINAH",
+    "alamat": "JL. GUNUNGSARI INDAH Blok CC",
+    "kelurahan": "Karang Pilang",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.318706,
+    "lng": 112.708186,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69812068@sch.id",
+      "hp": "081247420025"
+    },
+    "kontak": {
+      "email": "info.69812068@sch.id",
+      "telepon": "031-4231396"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69812068@sch.id",
+          "hp": "081369529839"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20566430",
+    "nama": "SMKS KIMIA MUDDA",
+    "alamat": "SETINGGIL NO. 1",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.66,
+    "lng": 111.5147,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20566430@sch.id",
+      "hp": "081861347076"
+    },
+    "kontak": {
+      "email": "info.20566430@sch.id",
+      "telepon": "031-4770741"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20566430@sch.id",
+          "hp": "081213195873"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533644",
+    "nama": "SMKS WASKITA DHARMA",
+    "alamat": "JL. SAWOJAJAR V/28",
+    "kelurahan": "Kedungkandang",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9787,
+    "lng": 112.6538,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20533644@sch.id",
+      "hp": "081642208503"
+    },
+    "kontak": {
+      "email": "info.20533644@sch.id",
+      "telepon": "031-3234812"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533644@sch.id",
+          "hp": "081055878052"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534406",
+    "nama": "SMKS PGRI 2 KEDIRI",
+    "alamat": "JL. KH. ABDUL KARIM NO. 5 KEDIRI",
+    "kelurahan": "Mojoroto",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8199,
+    "lng": 111.9972,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534406@sch.id",
+      "hp": "081444377421"
+    },
+    "kontak": {
+      "email": "info.20534406@sch.id",
+      "telepon": "031-4264916"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534406@sch.id",
+          "hp": "081052549347"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20571010",
+    "nama": "SMKS KESEHATAN ADITAPA MADIUN",
+    "alamat": "Jl. Sekolahan No. 6/II",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6489,
+    "lng": 111.5303,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20571010@sch.id",
+      "hp": "081833867125"
+    },
+    "kontak": {
+      "email": "info.20571010@sch.id",
+      "telepon": "031-7933409"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20571010@sch.id",
+          "hp": "081421839882"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534397",
+    "nama": "SMKS PGRI 1 KEDIRI",
+    "alamat": "JL. HIMALAYA 6 KEDIRI",
+    "kelurahan": "Mojoroto",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8135,
+    "lng": 111.9938,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534397@sch.id",
+      "hp": "081762376233"
+    },
+    "kontak": {
+      "email": "info.20534397@sch.id",
+      "telepon": "031-4321598"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534397@sch.id",
+          "hp": "081358224114"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69758447",
+    "nama": "SMKN 13 MALANG",
+    "alamat": "PERUM. VILA BUKIT TIDAR BLOK A2",
+    "kelurahan": "Lowokwaru",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -7.9421,
+    "lng": 112.5792,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.69758447@sch.id",
+      "hp": "081308064109"
+    },
+    "kontak": {
+      "email": "info.69758447@sch.id",
+      "telepon": "031-2062456"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69758447@sch.id",
+          "hp": "081094147750"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20539748",
+    "nama": "SMKS BINA CENDIKA",
+    "alamat": "JL. SEMERU NO. 42",
+    "kelurahan": "Klojen",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9803,
+    "lng": 112.6244,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20539748@sch.id",
+      "hp": "081883090493"
+    },
+    "kontak": {
+      "email": "info.20539748@sch.id",
+      "telepon": "031-4411485"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20539748@sch.id",
+          "hp": "081332941954"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533804",
+    "nama": "SMK TUMAPEL MALANG",
+    "alamat": "JL. Megamendung No.1-9 Malang",
+    "kelurahan": "Sukun",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9705,
+    "lng": 112.6081,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533804@sch.id",
+      "hp": "081371342355"
+    },
+    "kontak": {
+      "email": "info.20533804@sch.id",
+      "telepon": "031-9368934"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533804@sch.id",
+          "hp": "081397379544"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69831536",
+    "nama": "SMK GULA RAJAWALI MADIUN",
+    "alamat": "JL. YOS SUDARSO NO. 62-64",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6089,
+    "lng": 111.5289,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.69831536@sch.id",
+      "hp": "081124343421"
+    },
+    "kontak": {
+      "email": "info.69831536@sch.id",
+      "telepon": "031-1918859"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69831536@sch.id",
+          "hp": "081230946731"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533811",
+    "nama": "SMKS MUHAMMADIYAH 1 MALANG",
+    "alamat": "JL. GALUNGGUNG 37 A-B",
+    "kelurahan": "Klojen",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9692,
+    "lng": 112.6142,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533811@sch.id",
+      "hp": "081415217436"
+    },
+    "kontak": {
+      "email": "info.20533811@sch.id",
+      "telepon": "031-9935177"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533811@sch.id",
+          "hp": "081104327715"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20532183",
+    "nama": "SMKS KAL 1 SURABAYA",
+    "alamat": "JL. KOBANGDIKAL MOROKREMBANGAN",
+    "kelurahan": "Krembangan",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.2212,
+    "lng": 112.7144,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20532183@sch.id",
+      "hp": "081832505559"
+    },
+    "kontak": {
+      "email": "info.20532183@sch.id",
+      "telepon": "031-6659750"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20532183@sch.id",
+          "hp": "081772228779"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69854821",
+    "nama": "SMKS KESEHATAN KENDEDES",
+    "alamat": "JL. PANJI SUROSO NO.6",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.94396,
+    "lng": 112.651011,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.69854821@sch.id",
+      "hp": "081575454290"
+    },
+    "kontak": {
+      "email": "info.69854821@sch.id",
+      "telepon": "031-2794091"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69854821@sch.id",
+          "hp": "081051911581"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20539749",
+    "nama": "SMKN 10 MALANG",
+    "alamat": "JL. RAYA TLOGOWARU NO. 1",
+    "kelurahan": "Kedungkandang",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -8.0345,
+    "lng": 112.6468,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20539749@sch.id",
+      "hp": "081243589944"
+    },
+    "kontak": {
+      "email": "info.20539749@sch.id",
+      "telepon": "031-4992689"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20539749@sch.id",
+          "hp": "081405867307"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20539751",
+    "nama": "SMKN 9 MALANG",
+    "alamat": "JL. SAMPURNA CEMOROKANDANG MALANG",
+    "kelurahan": "Kedungkandang",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -7.9817,
+    "lng": 112.6871,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20539751@sch.id",
+      "hp": "081206074157"
+    },
+    "kontak": {
+      "email": "info.20539751@sch.id",
+      "telepon": "031-7252548"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20539751@sch.id",
+          "hp": "081097857903"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533816",
+    "nama": "SMKN 4 MALANG",
+    "alamat": "JL. TANIMBAR 22 MALANG",
+    "kelurahan": "Klojen",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -7.9901,
+    "lng": 112.6271,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533816@sch.id",
+      "hp": "081870556959"
+    },
+    "kontak": {
+      "email": "info.20533816@sch.id",
+      "telepon": "031-4291106"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533816@sch.id",
+          "hp": "081736845804"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20539405",
+    "nama": "SMKS FARMASI KATOLIK BINA FARMA MADIUN",
+    "alamat": "Jl. Tulus Bakti No.5A Kota Madiun",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6402,
+    "lng": 111.5317,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20539405@sch.id",
+      "hp": "081529929166"
+    },
+    "kontak": {
+      "email": "info.20539405@sch.id",
+      "telepon": "031-9807346"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20539405@sch.id",
+          "hp": "081228939773"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69762627",
+    "nama": "SMKS KEPERAWATAN BHAKTI WIYATA",
+    "alamat": "JL. KH. WAKHID HASYIM NO. 65",
+    "kelurahan": "Mojoroto",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8236,
+    "lng": 112.0047,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69762627@sch.id",
+      "hp": "081228888922"
+    },
+    "kontak": {
+      "email": "info.69762627@sch.id",
+      "telepon": "031-7334701"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69762627@sch.id",
+          "hp": "081160652522"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533812",
+    "nama": "SMKS NASIONAL MALANG",
+    "alamat": "JL. RAYA LANGSEP NO. 43",
+    "kelurahan": "Klojen",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9803,
+    "lng": 112.6143,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20533812@sch.id",
+      "hp": "081583638262"
+    },
+    "kontak": {
+      "email": "info.20533812@sch.id",
+      "telepon": "031-1860906"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533812@sch.id",
+          "hp": "081411502686"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533649",
+    "nama": "SMKS ARDJUNA 2",
+    "alamat": "JL. TELUK PELABUHAN RATU 41 MALANG",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9304,
+    "lng": 112.6576,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533649@sch.id",
+      "hp": "081418230970"
+    },
+    "kontak": {
+      "email": "info.20533649@sch.id",
+      "telepon": "031-7708325"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20533649@sch.id",
+          "hp": "081652412532"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20532203",
+    "nama": "SMKN 2 SURABAYA",
+    "alamat": "JL. TENTARA GENIE PELAJAR 26",
+    "kelurahan": "Sawahan",
+    "status": "Negeri",
+    "kota": "Kota Surabaya",
+    "lat": -7.2584,
+    "lng": 112.7256,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20532203@sch.id",
+      "hp": "081833091600"
+    },
+    "kontak": {
+      "email": "info.20532203@sch.id",
+      "telepon": "031-2001273"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20532203@sch.id",
+          "hp": "081057262464"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533651",
+    "nama": "SMKS GRAFIKA KARYA NASIONAL",
+    "alamat": "JL. RAYA JANTI NO. 19 MALANG",
+    "kelurahan": "Sukun",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -8.0017,
+    "lng": 112.6216,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533651@sch.id",
+      "hp": "081140201726"
+    },
+    "kontak": {
+      "email": "info.20533651@sch.id",
+      "telepon": "031-2739083"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533651@sch.id",
+          "hp": "081778030336"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533815",
+    "nama": "SMKN 3 MALANG",
+    "alamat": "JL. SURABAYA NO. 1 MALANG",
+    "kelurahan": "Klojen",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -7.9666,
+    "lng": 112.6192,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20533815@sch.id",
+      "hp": "081038031593"
+    },
+    "kontak": {
+      "email": "info.20533815@sch.id",
+      "telepon": "031-9327879"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533815@sch.id",
+          "hp": "081506163303"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20548807",
+    "nama": "SMKN 12 MALANG",
+    "alamat": "JL. PAHLAWAN BALEARJOSARI",
+    "kelurahan": "Blimbing",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -7.925,
+    "lng": 112.659,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20548807@sch.id",
+      "hp": "081164998604"
+    },
+    "kontak": {
+      "email": "info.20548807@sch.id",
+      "telepon": "031-6028402"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20548807@sch.id",
+          "hp": "081329470846"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533806",
+    "nama": "SMKS YP 17 1 MALANG",
+    "alamat": "JL. KAREL SATSUI TUBUN NO. 28A MALANG",
+    "kelurahan": "Sukun",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -8.0227,
+    "lng": 112.6244,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533806@sch.id",
+      "hp": "081878102164"
+    },
+    "kontak": {
+      "email": "info.20533806@sch.id",
+      "telepon": "031-9640144"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20533806@sch.id",
+          "hp": "081554486876"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69759004",
+    "nama": "SMKS KESEHATAN REKSA HUSADA",
+    "alamat": "JL CANDI BOKO NO 23 B",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6095,
+    "lng": 111.5328,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.69759004@sch.id",
+      "hp": "081503935218"
+    },
+    "kontak": {
+      "email": "info.69759004@sch.id",
+      "telepon": "031-1425463"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69759004@sch.id",
+          "hp": "081529334921"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533798",
+    "nama": "SMKS PUTRA INDONESIA",
+    "alamat": "JL. BARITO NO. 5 MALANG",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9602,
+    "lng": 112.6398,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20533798@sch.id",
+      "hp": "081468513130"
+    },
+    "kontak": {
+      "email": "info.20533798@sch.id",
+      "telepon": "031-7297735"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533798@sch.id",
+          "hp": "081512268394"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534188",
+    "nama": "SMKS ST BONAVENTURA 2 MADIUN",
+    "alamat": "JL. BOROBUDUR NO. 70 MADIUN",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6126,
+    "lng": 111.5238,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534188@sch.id",
+      "hp": "081002868952"
+    },
+    "kontak": {
+      "email": "info.20534188@sch.id",
+      "telepon": "031-1526475"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534188@sch.id",
+          "hp": "081330337480"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20571087",
+    "nama": "SMKS FARMASI MAHARANI",
+    "alamat": "JL. SIMPANG CANDI PANGGUNG NO. 133",
+    "kelurahan": "Lowokwaru",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.978,
+    "lng": 112.6306,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20571087@sch.id",
+      "hp": "081604480475"
+    },
+    "kontak": {
+      "email": "info.20571087@sch.id",
+      "telepon": "031-1247767"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20571087@sch.id",
+          "hp": "081385217769"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533818",
+    "nama": "SMKN 6 MALANG",
+    "alamat": "JL. KI AGENG GRIBIG NO. 28",
+    "kelurahan": "Kedungkandang",
+    "status": "Negeri",
+    "kota": "Kota Malang",
+    "lat": -7.975,
+    "lng": 112.6721,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533818@sch.id",
+      "hp": "081144503483"
+    },
+    "kontak": {
+      "email": "info.20533818@sch.id",
+      "telepon": "031-7437059"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533818@sch.id",
+          "hp": "081034662138"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20571344",
+    "nama": "SMK GAMA CENDEKIA SURABAYA",
+    "alamat": "JL. KALIJUDAN NO. 34-B SURABAYA",
+    "kelurahan": "Mulyorejo",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.253,
+    "lng": 112.7787,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20571344@sch.id",
+      "hp": "081561128068"
+    },
+    "kontak": {
+      "email": "info.20571344@sch.id",
+      "telepon": "031-4190391"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20571344@sch.id",
+          "hp": "081852040483"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533823",
+    "nama": "SMKS COR JESU MALANG",
+    "alamat": "JL. JAKSA AGUNG SUPRAPTRO NO. 55",
+    "kelurahan": "Klojen",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9679,
+    "lng": 112.6329,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533823@sch.id",
+      "hp": "081712153599"
+    },
+    "kontak": {
+      "email": "info.20533823@sch.id",
+      "telepon": "031-7088813"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20533823@sch.id",
+          "hp": "081697345153"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20532175",
+    "nama": "SMKS KARTIKA 2 SURABAYA",
+    "alamat": "JL. KARAH 182",
+    "kelurahan": "Jambangan",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.3088,
+    "lng": 112.7138,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20532175@sch.id",
+      "hp": "081623210167"
+    },
+    "kontak": {
+      "email": "info.20532175@sch.id",
+      "telepon": "031-1219972"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20532175@sch.id",
+          "hp": "081891667513"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534186",
+    "nama": "SMKS TAMAN SISWA 2 MADIUN",
+    "alamat": "JL. KALIMANTAN NO.23 MADIUN",
+    "kelurahan": "Kartoharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6271,
+    "lng": 111.5231,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534186@sch.id",
+      "hp": "081359802831"
+    },
+    "kontak": {
+      "email": "info.20534186@sch.id",
+      "telepon": "031-5819750"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534186@sch.id",
+          "hp": "081161680230"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534183",
+    "nama": "SMKS GAMALIEL 1 MADIUN",
+    "alamat": "JL. SLAMET RIADI 48 MADIUN",
+    "kelurahan": "Kartoharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6334,
+    "lng": 111.5424,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534183@sch.id",
+      "hp": "081772031671"
+    },
+    "kontak": {
+      "email": "info.20534183@sch.id",
+      "telepon": "031-9066993"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534183@sch.id",
+          "hp": "081449471789"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534161",
+    "nama": "SMKS YP 17 2 MADIUN",
+    "alamat": "Jl. Ring Road Barat KM I, Kel. Manguharjo, Kec. Manguharjo, Rt. 32, Rw.08",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6283,
+    "lng": 111.5161,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534161@sch.id",
+      "hp": "081680154507"
+    },
+    "kontak": {
+      "email": "info.20534161@sch.id",
+      "telepon": "031-7234408"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534161@sch.id",
+          "hp": "081398781552"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534401",
+    "nama": "SMKS KARTANEGARA KEDIRI",
+    "alamat": "Jl. Ir. Sutami 27 Kediri",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8145,
+    "lng": 112.0341,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534401@sch.id",
+      "hp": "081365025801"
+    },
+    "kontak": {
+      "email": "info.20534401@sch.id",
+      "telepon": "031-4674121"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534401@sch.id",
+          "hp": "081474395078"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20532182",
+    "nama": "SMKS KAL 2 SURABAYA",
+    "alamat": "JL. TELUK SAMPIT NO. 2-B SURABAYA",
+    "kelurahan": "Pabean Cantian",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.2169,
+    "lng": 112.7292,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20532182@sch.id",
+      "hp": "081834467036"
+    },
+    "kontak": {
+      "email": "info.20532182@sch.id",
+      "telepon": "031-5882457"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20532182@sch.id",
+          "hp": "081242048656"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534398",
+    "nama": "SMKN 1 KEDIRI",
+    "alamat": "JL. VETERAN 9 KEDIRI",
+    "kelurahan": "Mojoroto",
+    "status": "Negeri",
+    "kota": "Kota Kediri",
+    "lat": -7.8116,
+    "lng": 111.9976,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534398@sch.id",
+      "hp": "081512434869"
+    },
+    "kontak": {
+      "email": "info.20534398@sch.id",
+      "telepon": "031-6628020"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534398@sch.id",
+          "hp": "081073506304"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20532673",
+    "nama": "SMKS SARI PRAJA SURABAYA",
+    "alamat": "JL. LEMPUNG PERDANA NO.2 SURABAYA",
+    "kelurahan": "Tandes",
+    "status": "Swasta",
+    "kota": "Kota Surabaya",
+    "lat": -7.2641,
+    "lng": 112.6695,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20532673@sch.id",
+      "hp": "081739772882"
+    },
+    "kontak": {
+      "email": "info.20532673@sch.id",
+      "telepon": "031-7253213"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20532673@sch.id",
+          "hp": "081773348190"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "60726287",
+    "nama": "SMKS KESEHATAN BHAKTI INDONESIA MEDIKA",
+    "alamat": "JL. AHMAD YANI",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8158,
+    "lng": 112.0318,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.60726287@sch.id",
+      "hp": "081114471211"
+    },
+    "kontak": {
+      "email": "info.60726287@sch.id",
+      "telepon": "031-3736138"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.60726287@sch.id",
+          "hp": "081106982633"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534381",
+    "nama": "SMKS PAWYATAN DAHA 2 KEDIRI",
+    "alamat": "JL. A.YANI I/2 KEDIRI",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8194,
+    "lng": 112.0302,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534381@sch.id",
+      "hp": "081710707225"
+    },
+    "kontak": {
+      "email": "info.20534381@sch.id",
+      "telepon": "031-8067635"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534381@sch.id",
+          "hp": "081261857050"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534179",
+    "nama": "SMKN 1 MADIUN",
+    "alamat": "JL. M.H THAMRIN 1 MADIUN",
+    "kelurahan": "Kartoharjo",
+    "status": "Negeri",
+    "kota": "Kota Madiun",
+    "lat": -7.6252,
+    "lng": 111.5329,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534179@sch.id",
+      "hp": "081105250060"
+    },
+    "kontak": {
+      "email": "info.20534179@sch.id",
+      "telepon": "031-6105068"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534179@sch.id",
+          "hp": "081590470718"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20540219",
+    "nama": "SMKS TUNAS BANGSA",
+    "alamat": "JL. SEBUKU NO. 12 MALANG",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9636,
+    "lng": 112.6469,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20540219@sch.id",
+      "hp": "081002975945"
+    },
+    "kontak": {
+      "email": "info.20540219@sch.id",
+      "telepon": "031-4114056"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20540219@sch.id",
+          "hp": "081605636746"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69755782",
+    "nama": "SMKS KESEHATAN ADI HUSADA",
+    "alamat": "JL.MAYJEN.M.WIYONO NO.11",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9752,
+    "lng": 112.5984,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.69755782@sch.id",
+      "hp": "081279360726"
+    },
+    "kontak": {
+      "email": "info.69755782@sch.id",
+      "telepon": "031-5244382"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69755782@sch.id",
+          "hp": "081571554880"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533646",
+    "nama": "SMKS BHAKTI LUHUR",
+    "alamat": "JL. RAYA DIENG NO. 40 MALANG",
+    "kelurahan": "Sukun",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.973,
+    "lng": 112.6121,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533646@sch.id",
+      "hp": "081668690973"
+    },
+    "kontak": {
+      "email": "info.20533646@sch.id",
+      "telepon": "031-1429009"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533646@sch.id",
+          "hp": "081582997181"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20532204",
+    "nama": "SMKN 10 SURABAYA",
+    "alamat": "JL. KEPUTIH TEGAL",
+    "kelurahan": "Sukolilo",
+    "status": "Negeri",
+    "kota": "Kota Surabaya",
+    "lat": -7.2927,
+    "lng": 112.8009,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20532204@sch.id",
+      "hp": "081482812473"
+    },
+    "kontak": {
+      "email": "info.20532204@sch.id",
+      "telepon": "031-1593614"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20532204@sch.id",
+          "hp": "081653591321"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20583974",
+    "nama": "SMKS EL HAYAT",
+    "alamat": "JL. KH MALIK DALAM NO.1 MALANG",
+    "kelurahan": "Kedungkandang",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9964,
+    "lng": 112.6476,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20583974@sch.id",
+      "hp": "081554499255"
+    },
+    "kontak": {
+      "email": "info.20583974@sch.id",
+      "telepon": "031-5136826"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20583974@sch.id",
+          "hp": "081191024581"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20559083",
+    "nama": "SMK WIDYAGAMA",
+    "alamat": "JL. BOROBUDUR 12",
+    "kelurahan": "Lowokwaru",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9398,
+    "lng": 112.6375,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20559083@sch.id",
+      "hp": "081597789226"
+    },
+    "kontak": {
+      "email": "info.20559083@sch.id",
+      "telepon": "031-2456215"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20559083@sch.id",
+          "hp": "081679116844"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534193",
+    "nama": "SMKS PGRI 3 MADIUN",
+    "alamat": "JL. MAYJEN PANJAHITAN 06 MADIUN",
+    "kelurahan": "Taman",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6449,
+    "lng": 111.5328,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534193@sch.id",
+      "hp": "081796050383"
+    },
+    "kontak": {
+      "email": "info.20534193@sch.id",
+      "telepon": "031-1576736"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534193@sch.id",
+          "hp": "081271676734"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20573920",
+    "nama": "SMKS CAHAYA SURYA",
+    "alamat": "JL. PERINTIS KEMERDEKAAN NO.36 A",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8383,
+    "lng": 112.0108,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20573920@sch.id",
+      "hp": "081295897894"
+    },
+    "kontak": {
+      "email": "info.20573920@sch.id",
+      "telepon": "031-6955320"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20573920@sch.id",
+          "hp": "081539037566"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533797",
+    "nama": "SMKS PRAJNAPARAMITA",
+    "alamat": "JL. SERAYU 2-C",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9645,
+    "lng": 112.6395,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533797@sch.id",
+      "hp": "081279672741"
+    },
+    "kontak": {
+      "email": "info.20533797@sch.id",
+      "telepon": "031-7918074"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533797@sch.id",
+          "hp": "081092174938"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534195",
+    "nama": "SMKS COKROAMINOTO 2 MADIUN",
+    "alamat": "JL. JEND. SUDIRMAN 15B MADIUN",
+    "kelurahan": "Kartoharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6206,
+    "lng": 111.5239,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534195@sch.id",
+      "hp": "081308663535"
+    },
+    "kontak": {
+      "email": "info.20534195@sch.id",
+      "telepon": "031-9276583"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534195@sch.id",
+          "hp": "081676248326"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20570794",
+    "nama": "SMKS AL AMIEN",
+    "alamat": "JL. NGASINAN RAYA",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8527,
+    "lng": 112.0244,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20570794@sch.id",
+      "hp": "081610375344"
+    },
+    "kontak": {
+      "email": "info.20570794@sch.id",
+      "telepon": "031-5670209"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20570794@sch.id",
+          "hp": "081749578474"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534380",
+    "nama": "SMKS TAMAN SISWA KEDIRI",
+    "alamat": "JL. PEMUDA NO. 20",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8146,
+    "lng": 112.02,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534380@sch.id",
+      "hp": "081053889771"
+    },
+    "kontak": {
+      "email": "info.20534380@sch.id",
+      "telepon": "031-9567365"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534380@sch.id",
+          "hp": "081080900763"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533795",
+    "nama": "SMKS PGRI 6 MALANG",
+    "alamat": "JL. JANTI SELATAN MALANG",
+    "kelurahan": "Sukun",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -8.0071,
+    "lng": 112.6255,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533795@sch.id",
+      "hp": "081764760167"
+    },
+    "kontak": {
+      "email": "info.20533795@sch.id",
+      "telepon": "031-1201736"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533795@sch.id",
+          "hp": "081534166875"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "60726286",
+    "nama": "SMKS AL-MAHRUSIYAH",
+    "alamat": "JL. Ngampel Raya RT. 04 RW. 01 Ngampel-Mojoroto Kota Kediri 64112 Jawa Timur",
+    "kelurahan": "Mojoroto",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8386,
+    "lng": 112.0224,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.60726286@sch.id",
+      "hp": "081814977085"
+    },
+    "kontak": {
+      "email": "info.60726286@sch.id",
+      "telepon": "031-1097402"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.60726286@sch.id",
+          "hp": "081646128526"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534408",
+    "nama": "SMKN 2 KEDIRI",
+    "alamat": "JL. VETERAN NO. 5 KEDIRI & JL. MONGINSIDI 36 KEDIRI",
+    "kelurahan": "Mojoroto",
+    "status": "Negeri",
+    "kota": "Kota Kediri",
+    "lat": -7.8117,
+    "lng": 112.0006,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534408@sch.id",
+      "hp": "081184735713"
+    },
+    "kontak": {
+      "email": "info.20534408@sch.id",
+      "telepon": "031-2529979"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534408@sch.id",
+          "hp": "081084092626"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534394",
+    "nama": "SMKS BRAWIJAYA KEDIRI",
+    "alamat": "JL. AHMAD YANI NO. 8 KEDIRI",
+    "kelurahan": "Kota Kediri",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.8154,
+    "lng": 112.0303,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534394@sch.id",
+      "hp": "081323630643"
+    },
+    "kontak": {
+      "email": "info.20534394@sch.id",
+      "telepon": "031-1090585"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534394@sch.id",
+          "hp": "081460933083"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533821",
+    "nama": "SMKS PEKERJAAN UMUM MALANG",
+    "alamat": "JL. SIMPANG LAKSDA ADI SUCIPTO NO. 20 MALANG",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9597,
+    "lng": 112.6551,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20533821@sch.id",
+      "hp": "081176213118"
+    },
+    "kontak": {
+      "email": "info.20533821@sch.id",
+      "telepon": "031-8665203"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20533821@sch.id",
+          "hp": "081855655468"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69888531",
+    "nama": "SMKS  INDOTEKNIKA",
+    "alamat": "JL. LAKSDA. ADI SUCIPTO NO. 334 B",
+    "kelurahan": "Blimbing",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9478,
+    "lng": 112.6556,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69888531@sch.id",
+      "hp": "081457601870"
+    },
+    "kontak": {
+      "email": "info.69888531@sch.id",
+      "telepon": "031-2871797"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.69888531@sch.id",
+          "hp": "081323741360"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20540339",
+    "nama": "SMKS KESEHATAN BHAKTI WIYATA",
+    "alamat": "JL. KH. WAHID HASYIM NO.65",
+    "kelurahan": "Mojoroto",
+    "status": "Swasta",
+    "kota": "Kota Kediri",
+    "lat": -7.818,
+    "lng": 112.0066,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20540339@sch.id",
+      "hp": "081197345425"
+    },
+    "kontak": {
+      "email": "info.20540339@sch.id",
+      "telepon": "031-2492997"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20540339@sch.id",
+          "hp": "081623734150"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69931836",
+    "nama": "SMK NATIONAL MEDIA CENTER",
+    "alamat": "JL. SIMPANG CANDI PANGGUNG 133",
+    "kelurahan": "Lowokwaru",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.943926,
+    "lng": 112.6285022,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.69931836@sch.id",
+      "hp": "081361594838"
+    },
+    "kontak": {
+      "email": "info.69931836@sch.id",
+      "telepon": "031-7442553"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.69931836@sch.id",
+          "hp": "081773855561"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69765102",
+    "nama": "SMKS CENDEKIA",
+    "alamat": "Jl. Letkol Suwarno",
+    "kelurahan": "Kartoharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6294,
+    "lng": 111.5456,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.69765102@sch.id",
+      "hp": "081103475589"
+    },
+    "kontak": {
+      "email": "info.69765102@sch.id",
+      "telepon": "031-2409446"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69765102@sch.id",
+          "hp": "081827442769"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534177",
+    "nama": "SMKN 3 MADIUN",
+    "alamat": "JL. MAYJEN PANJAHITAN 20A",
+    "kelurahan": "Taman",
+    "status": "Negeri",
+    "kota": "Kota Madiun",
+    "lat": -7.6517,
+    "lng": 111.5297,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534177@sch.id",
+      "hp": "081022635290"
+    },
+    "kontak": {
+      "email": "info.20534177@sch.id",
+      "telepon": "031-3525465"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534177@sch.id",
+          "hp": "081574669654"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534176",
+    "nama": "SMKN 4 MADIUN",
+    "alamat": "JL. MASTRIP 27 MADIUN",
+    "kelurahan": "Taman",
+    "status": "Negeri",
+    "kota": "Kota Madiun",
+    "lat": -7.6239,
+    "lng": 111.5294,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534176@sch.id",
+      "hp": "081509608009"
+    },
+    "kontak": {
+      "email": "info.20534176@sch.id",
+      "telepon": "031-3080810"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534176@sch.id",
+          "hp": "081134678462"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534182",
+    "nama": "SMKS GAMALIEL 2 MADIUN",
+    "alamat": "JL. NIAS 1 MANGUHARJO",
+    "kelurahan": "Manguharjo",
+    "status": "Swasta",
+    "kota": "Kota Madiun",
+    "lat": -7.6555,
+    "lng": 111.5281,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534182@sch.id",
+      "hp": "081322967136"
+    },
+    "kontak": {
+      "email": "info.20534182@sch.id",
+      "telepon": "031-2782128"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534182@sch.id",
+          "hp": "081046828915"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533794",
+    "nama": "SMKS KERTHA WISATA",
+    "alamat": "JALAN TLOGO SARI 36 B",
+    "kelurahan": "Lowokwaru",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9322,
+    "lng": 112.6002,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20533794@sch.id",
+      "hp": "081006392704"
+    },
+    "kontak": {
+      "email": "info.20533794@sch.id",
+      "telepon": "031-5542721"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533794@sch.id",
+          "hp": "081711606493"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20533805",
+    "nama": "SMKS WISNUWARDHANA MALANG",
+    "alamat": "JL. DANAU SENTANI NO. 99",
+    "kelurahan": "Kedungkandang",
+    "status": "Swasta",
+    "kota": "Kota Malang",
+    "lat": -7.9708,
+    "lng": 112.669,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20533805@sch.id",
+      "hp": "081812543234"
+    },
+    "kontak": {
+      "email": "info.20533805@sch.id",
+      "telepon": "031-8573815"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20533805@sch.id",
+          "hp": "081793733698"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536276",
+    "nama": "SMKS SORE PROBOLINGGO",
+    "alamat": "JL. MASTRIP NO. 155A",
+    "kelurahan": "Kanigaran",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7721,
+    "lng": 113.2131,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20536276@sch.id",
+      "hp": "081112860910"
+    },
+    "kontak": {
+      "email": "info.20536276@sch.id",
+      "telepon": "031-3915478"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20536276@sch.id",
+          "hp": "081071673441"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69761846",
+    "nama": "SMK MUHAMMADIYAH 1 BLITAR",
+    "alamat": "JL. COKROAMINOTO NO 3 BLITAR",
+    "kelurahan": "Kepanjenkidul",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.097592,
+    "lng": 112.169987,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.69761846@sch.id",
+      "hp": "081226314264"
+    },
+    "kontak": {
+      "email": "info.69761846@sch.id",
+      "telepon": "031-5022313"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69761846@sch.id",
+          "hp": "081101928909"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536294",
+    "nama": "SMKS SIANG PROBOLINGGO",
+    "alamat": "JL. MASTRIP 187",
+    "kelurahan": "Kedopok",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7754,
+    "lng": 113.2131,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20536294@sch.id",
+      "hp": "081356357579"
+    },
+    "kontak": {
+      "email": "info.20536294@sch.id",
+      "telepon": "031-4316937"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536294@sch.id",
+          "hp": "081068604107"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536290",
+    "nama": "SMKN 1 PROBOLINGGO",
+    "alamat": "JL. MASTRIP NO. 357 PROBOLINGGO",
+    "kelurahan": "Kedopok",
+    "status": "Negeri",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7817,
+    "lng": 113.2116,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536290@sch.id",
+      "hp": "081131052698"
+    },
+    "kontak": {
+      "email": "info.20536290@sch.id",
+      "telepon": "031-7992240"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20536290@sch.id",
+          "hp": "081106818876"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "60702916",
+    "nama": "SMKS BHAKTI INDONESIA MEDIKA",
+    "alamat": "SURODINAWAN NO.25 MOJOKERTO",
+    "kelurahan": "Prajurit Kulon",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4826,
+    "lng": 112.424,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.60702916@sch.id",
+      "hp": "081081610891"
+    },
+    "kontak": {
+      "email": "info.60702916@sch.id",
+      "telepon": "031-2558380"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.60702916@sch.id",
+          "hp": "081520130829"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536828",
+    "nama": "SMKS PUTIKECWARA BATU",
+    "alamat": "JL. PANGLIMA SUDIRMAN NO.91C",
+    "kelurahan": "Batu",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.8687,
+    "lng": 112.5158,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20536828@sch.id",
+      "hp": "081068235711"
+    },
+    "kontak": {
+      "email": "info.20536828@sch.id",
+      "telepon": "031-6244391"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536828@sch.id",
+          "hp": "081050817929"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20555791",
+    "nama": "SMKS AN NUR",
+    "alamat": "JL. SUNAN GIRI 06",
+    "kelurahan": "Wonoasih",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7813,
+    "lng": 113.234,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20555791@sch.id",
+      "hp": "081314818724"
+    },
+    "kontak": {
+      "email": "info.20555791@sch.id",
+      "telepon": "031-4546451"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20555791@sch.id",
+          "hp": "081077022806"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534783",
+    "nama": "SMKS RADEN PATAH",
+    "alamat": "MAYJEN SUNGKONO NO.78A",
+    "kelurahan": "Magersari",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4511,
+    "lng": 112.4478,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534783@sch.id",
+      "hp": "081614011017"
+    },
+    "kontak": {
+      "email": "info.20534783@sch.id",
+      "telepon": "031-9049578"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534783@sch.id",
+          "hp": "081891250401"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535094",
+    "nama": "SMKS TRIJAYA BLITAR",
+    "alamat": "JL. TANJUNG BLITAR",
+    "kelurahan": "Sukorejo",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1,
+    "lng": 112.1385,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535094@sch.id",
+      "hp": "081130255700"
+    },
+    "kontak": {
+      "email": "info.20535094@sch.id",
+      "telepon": "031-4505244"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535094@sch.id",
+          "hp": "081457689493"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536289",
+    "nama": "SMKN 2 PROBOLINGGO",
+    "alamat": "JL. MASTRIP NO.153 PROBOLINGGO",
+    "kelurahan": "Kanigaran",
+    "status": "Negeri",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7715,
+    "lng": 113.2134,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536289@sch.id",
+      "hp": "081662004096"
+    },
+    "kontak": {
+      "email": "info.20536289@sch.id",
+      "telepon": "031-4785822"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20536289@sch.id",
+          "hp": "081343054829"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534752",
+    "nama": "SMKS AKHMAD YANI",
+    "alamat": "JL. IRIAN JAYA NO.3 KRANGGAN",
+    "kelurahan": "Prajurit Kulon",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4845,
+    "lng": 112.4356,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534752@sch.id",
+      "hp": "081237695976"
+    },
+    "kontak": {
+      "email": "info.20534752@sch.id",
+      "telepon": "031-8991215"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20534752@sch.id",
+          "hp": "081869766130"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535072",
+    "nama": "SMKS KATHOLIK SANTO YUSUP BLITAR",
+    "alamat": "Jl. Jenderal Sudirman No.35",
+    "kelurahan": "Kepanjenkidul",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.0984,
+    "lng": 112.1717,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535072@sch.id",
+      "hp": "081252572803"
+    },
+    "kontak": {
+      "email": "info.20535072@sch.id",
+      "telepon": "031-2793648"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20535072@sch.id",
+          "hp": "081241329552"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69786498",
+    "nama": "SMK NEGERI 2 MOJOKERTO",
+    "alamat": "JL. PULOREJO",
+    "kelurahan": "Prajurit Kulon",
+    "status": "Negeri",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4648,
+    "lng": 112.4232,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.69786498@sch.id",
+      "hp": "081702256925"
+    },
+    "kontak": {
+      "email": "info.69786498@sch.id",
+      "telepon": "031-8257820"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69786498@sch.id",
+          "hp": "081131070264"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535090",
+    "nama": "SMKS PGRI 2 KOTA BLITAR",
+    "alamat": "JL. LEGUNDI / GUNOLEKSONO NO. 6 BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1028,
+    "lng": 112.18,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20535090@sch.id",
+      "hp": "081752090124"
+    },
+    "kontak": {
+      "email": "info.20535090@sch.id",
+      "telepon": "031-9178948"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535090@sch.id",
+          "hp": "081386014856"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535092",
+    "nama": "SMKS PGRI 4 KOTA BLITAR",
+    "alamat": "JL. KALIMANTAN NO. 111 BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1077,
+    "lng": 112.1809,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20535092@sch.id",
+      "hp": "081838071442"
+    },
+    "kontak": {
+      "email": "info.20535092@sch.id",
+      "telepon": "031-3326595"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535092@sch.id",
+          "hp": "081844182409"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535450",
+    "nama": "SMKS PGRI 4 PASURUAN",
+    "alamat": "JL. KI HAJAR DEWANTARA NO. 27-29",
+    "kelurahan": "Purworejo",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6695,
+    "lng": 112.9033,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20535450@sch.id",
+      "hp": "081435116365"
+    },
+    "kontak": {
+      "email": "info.20535450@sch.id",
+      "telepon": "031-7555258"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535450@sch.id",
+          "hp": "081293122851"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534751",
+    "nama": "SMKN 1 MOJOKERTO",
+    "alamat": "JL. RAYA KEDUNGSARI",
+    "kelurahan": "Magersari",
+    "status": "Negeri",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4554,
+    "lng": 112.4261,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534751@sch.id",
+      "hp": "081097867558"
+    },
+    "kontak": {
+      "email": "info.20534751@sch.id",
+      "telepon": "031-9952183"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534751@sch.id",
+          "hp": "081531491180"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536277",
+    "nama": "SMKN 3 PROBOLINGGO",
+    "alamat": "JL. PAHLAWAN NO. 26A",
+    "kelurahan": "Kanigaran",
+    "status": "Negeri",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7591,
+    "lng": 113.2198,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536277@sch.id",
+      "hp": "081569830764"
+    },
+    "kontak": {
+      "email": "info.20536277@sch.id",
+      "telepon": "031-1899975"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536277@sch.id",
+          "hp": "081056480464"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20565432",
+    "nama": "SMKS RAUDLATUL MALIKIYAH",
+    "alamat": "Jl. LAWU NO. 39",
+    "kelurahan": "Kademangan",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7553,
+    "lng": 113.1899,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20565432@sch.id",
+      "hp": "081576906702"
+    },
+    "kontak": {
+      "email": "info.20565432@sch.id",
+      "telepon": "031-4633437"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20565432@sch.id",
+          "hp": "081482308885"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69755353",
+    "nama": "SMKS KESEHATAN SAKINAH",
+    "alamat": "JL. PATIMURA NO. 177 PASURUAN",
+    "kelurahan": "Bugul Kidul",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6517,
+    "lng": 112.9142,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69755353@sch.id",
+      "hp": "081131035793"
+    },
+    "kontak": {
+      "email": "info.69755353@sch.id",
+      "telepon": "031-4918296"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69755353@sch.id",
+          "hp": "081033688643"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536275",
+    "nama": "SMKS TAMANSISWA 1 PROBOLINGGO",
+    "alamat": "JL. DR. MOCH. SALEH NO. 3 PROBOLINGGO",
+    "kelurahan": "Kanigaran",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.752,
+    "lng": 113.2136,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20536275@sch.id",
+      "hp": "081294796893"
+    },
+    "kontak": {
+      "email": "info.20536275@sch.id",
+      "telepon": "031-8304533"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536275@sch.id",
+          "hp": "081584523897"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536826",
+    "nama": "SMKN 2 BATU",
+    "alamat": "Jl. Raya Pandanrejo 39 A Pandanrejo",
+    "kelurahan": "Bumiaji",
+    "status": "Negeri",
+    "kota": "Kota Batu",
+    "lat": -7.8638,
+    "lng": 112.5399,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20536826@sch.id",
+      "hp": "081085574238"
+    },
+    "kontak": {
+      "email": "info.20536826@sch.id",
+      "telepon": "031-4755952"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536826@sch.id",
+          "hp": "081356311006"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535054",
+    "nama": "SMKS DR ISMANGIL BLITAR",
+    "alamat": "JL. MELATI NO. 15 BLITAR",
+    "kelurahan": "Kepanjenkidul",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1044,
+    "lng": 112.167,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20535054@sch.id",
+      "hp": "081587818456"
+    },
+    "kontak": {
+      "email": "info.20535054@sch.id",
+      "telepon": "031-3566340"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535054@sch.id",
+          "hp": "081614007347"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20554221",
+    "nama": "SMKS ASSULTHONIYAH",
+    "alamat": "KH. SULTHON NO. 1",
+    "kelurahan": "Kademangan",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7712,
+    "lng": 113.1764,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20554221@sch.id",
+      "hp": "081388694340"
+    },
+    "kontak": {
+      "email": "info.20554221@sch.id",
+      "telepon": "031-2344687"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20554221@sch.id",
+          "hp": "081292337601"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536824",
+    "nama": "SMKS MAARIF",
+    "alamat": "JL. PANDERMAN NO 26",
+    "kelurahan": "Batu",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.8708,
+    "lng": 112.5288,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536824@sch.id",
+      "hp": "081110184299"
+    },
+    "kontak": {
+      "email": "info.20536824@sch.id",
+      "telepon": "031-2811194"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536824@sch.id",
+          "hp": "081159106067"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535467",
+    "nama": "SMKS PGRI 1 PASURUAN",
+    "alamat": "JL. IR. H. JUANDA 54 A PASURUAN",
+    "kelurahan": "Bugul Kidul",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6526,
+    "lng": 112.9222,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20535467@sch.id",
+      "hp": "081230550779"
+    },
+    "kontak": {
+      "email": "info.20535467@sch.id",
+      "telepon": "031-8234787"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20535467@sch.id",
+          "hp": "081784542225"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535468",
+    "nama": "UPT SMK NEGERI 1 PASURUAN",
+    "alamat": "JL. VETERAN 11 PASURUAN",
+    "kelurahan": "Panggungrejo",
+    "status": "Negeri",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6454,
+    "lng": 112.9146,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535468@sch.id",
+      "hp": "081182537869"
+    },
+    "kontak": {
+      "email": "info.20535468@sch.id",
+      "telepon": "031-8859647"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535468@sch.id",
+          "hp": "081353278674"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535091",
+    "nama": "SMKS PGRI 3 BLITAR",
+    "alamat": "JL. TANJUNG 113 BLITAR",
+    "kelurahan": "Sukorejo",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1011,
+    "lng": 112.1476,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20535091@sch.id",
+      "hp": "081688596083"
+    },
+    "kontak": {
+      "email": "info.20535091@sch.id",
+      "telepon": "031-8339990"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535091@sch.id",
+          "hp": "081058457140"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535466",
+    "nama": "SMKS PGRI 2 PASURUAN",
+    "alamat": "JL. BALAI KOTA NO.9 PASURUAN",
+    "kelurahan": "Panggungrejo",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6415,
+    "lng": 112.9122,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20535466@sch.id",
+      "hp": "081698162245"
+    },
+    "kontak": {
+      "email": "info.20535466@sch.id",
+      "telepon": "031-1256062"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535466@sch.id",
+          "hp": "081193527923"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534784",
+    "nama": "SMKS TAMANSISWA MOJOKERTO",
+    "alamat": "JL. PANDERMAN VIII",
+    "kelurahan": "Magersari",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4583,
+    "lng": 112.4528,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534784@sch.id",
+      "hp": "081819914682"
+    },
+    "kontak": {
+      "email": "info.20534784@sch.id",
+      "telepon": "031-6596646"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534784@sch.id",
+          "hp": "081749935864"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535055",
+    "nama": "SMKS ISLAM 1 KOTA BLITAR",
+    "alamat": "JL. MUSI NO.6 BLITAR",
+    "kelurahan": "Kepanjenkidul",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.094,
+    "lng": 112.1621,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20535055@sch.id",
+      "hp": "081588985956"
+    },
+    "kontak": {
+      "email": "info.20535055@sch.id",
+      "telepon": "031-6279864"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535055@sch.id",
+          "hp": "081725470172"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536924",
+    "nama": "SMKS PGRI 1 PROBOLINGGO",
+    "alamat": "JL. DR. MOH. SALEH NO. 5",
+    "kelurahan": "Kanigaran",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7514,
+    "lng": 113.2137,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536924@sch.id",
+      "hp": "081216297242"
+    },
+    "kontak": {
+      "email": "info.20536924@sch.id",
+      "telepon": "031-3162115"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536924@sch.id",
+          "hp": "081351613419"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535089",
+    "nama": "SMKS PGRI 1 KOTA BLITAR",
+    "alamat": "JL. KEMUNING BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1082,
+    "lng": 112.1631,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535089@sch.id",
+      "hp": "081854945156"
+    },
+    "kontak": {
+      "email": "info.20535089@sch.id",
+      "telepon": "031-6924531"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535089@sch.id",
+          "hp": "081450263674"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536823",
+    "nama": "SMKS BRAWIJAYA BATU",
+    "alamat": "JL. SUDARNO NO. 26 BATU",
+    "kelurahan": "Batu",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.8736,
+    "lng": 112.5207,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20536823@sch.id",
+      "hp": "081317239422"
+    },
+    "kontak": {
+      "email": "info.20536823@sch.id",
+      "telepon": "031-1326722"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536823@sch.id",
+          "hp": "081427062260"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536822",
+    "nama": "SMKN 1 BATU",
+    "alamat": "JL. BROMO NO.11 BATU",
+    "kelurahan": "Batu",
+    "status": "Negeri",
+    "kota": "Kota Batu",
+    "lat": -7.868,
+    "lng": 112.5272,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20536822@sch.id",
+      "hp": "081888242090"
+    },
+    "kontak": {
+      "email": "info.20536822@sch.id",
+      "telepon": "031-5177927"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20536822@sch.id",
+          "hp": "081088903366"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536263",
+    "nama": "SMKS TAMAN SISWA 2 PROBOLINGGO",
+    "alamat": "JL. DR. MOCH. SALEH NO.03 PROBOLINGGO",
+    "kelurahan": "Kanigaran",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7517,
+    "lng": 113.2138,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536263@sch.id",
+      "hp": "081489049007"
+    },
+    "kontak": {
+      "email": "info.20536263@sch.id",
+      "telepon": "031-5999378"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536263@sch.id",
+          "hp": "081010830550"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20571843",
+    "nama": "SMKS KESEHATAN BAKTI INDONESIA MEDIKA",
+    "alamat": "JL. BASUKI RAHMAT NO. 42 PROBOLINGGO",
+    "kelurahan": "Mayangan",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7473,
+    "lng": 113.2313,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20571843@sch.id",
+      "hp": "081731577269"
+    },
+    "kontak": {
+      "email": "info.20571843@sch.id",
+      "telepon": "031-1759863"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20571843@sch.id",
+          "hp": "081783436935"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535449",
+    "nama": "SMKS SHALAHUDIN",
+    "alamat": "JL. DR. WAHIDIN SUDIROHUSODO NO.63 PASURUAN",
+    "kelurahan": "Panggungrejo",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6557,
+    "lng": 112.9046,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535449@sch.id",
+      "hp": "081760291174"
+    },
+    "kontak": {
+      "email": "info.20535449@sch.id",
+      "telepon": "031-9178678"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535449@sch.id",
+          "hp": "081392637576"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69734009",
+    "nama": "SMKS RAUDLATUL MUTAALIMIN",
+    "alamat": "JL. MASTRIP NO. 154",
+    "kelurahan": "Wonoasih",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7925,
+    "lng": 113.2176,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.69734009@sch.id",
+      "hp": "081671309920"
+    },
+    "kontak": {
+      "email": "info.69734009@sch.id",
+      "telepon": "031-9125916"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.69734009@sch.id",
+          "hp": "081892696190"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536291",
+    "nama": "SMKS MUHAMMADIYAH 2 PROBOLINGGO",
+    "alamat": "JL. MAYJEND PANJAITAN NO. 73",
+    "kelurahan": "Mayangan",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7665,
+    "lng": 113.21,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536291@sch.id",
+      "hp": "081515537355"
+    },
+    "kontak": {
+      "email": "info.20536291@sch.id",
+      "telepon": "031-4800252"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20536291@sch.id",
+          "hp": "081852916341"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69727599",
+    "nama": "SMKS WIYATA HUSADA",
+    "alamat": "JL. KENANGA NO. 300",
+    "kelurahan": "Bumiaji",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.839,
+    "lng": 112.5306,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.69727599@sch.id",
+      "hp": "081699551759"
+    },
+    "kontak": {
+      "email": "info.69727599@sch.id",
+      "telepon": "031-9381532"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69727599@sch.id",
+          "hp": "081320911484"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535053",
+    "nama": "SMKS ANGKATAN 45 BLITAR",
+    "alamat": "JL. DIPONEGORO NO. 40 BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.0951,
+    "lng": 112.1757,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20535053@sch.id",
+      "hp": "081129820555"
+    },
+    "kontak": {
+      "email": "info.20535053@sch.id",
+      "telepon": "031-8015384"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535053@sch.id",
+          "hp": "081138597322"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536827",
+    "nama": "SMKN 3 BATU",
+    "alamat": "TERUSAN METRO - DUSUN SANTREAN",
+    "kelurahan": "Batu",
+    "status": "Negeri",
+    "kota": "Kota Batu",
+    "lat": -7.8524,
+    "lng": 112.5193,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20536827@sch.id",
+      "hp": "081236338719"
+    },
+    "kontak": {
+      "email": "info.20536827@sch.id",
+      "telepon": "031-8163653"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536827@sch.id",
+          "hp": "081457259730"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69774780",
+    "nama": "SMKS Kesehatan Amanah Husada",
+    "alamat": "Jl. Pattimura No 2 Junrejo",
+    "kelurahan": "Junrejo",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.9123,
+    "lng": 112.5465,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.69774780@sch.id",
+      "hp": "081023313876"
+    },
+    "kontak": {
+      "email": "info.69774780@sch.id",
+      "telepon": "031-1890949"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69774780@sch.id",
+          "hp": "081605061819"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535472",
+    "nama": "SMKS DHARMA WIRAWAN",
+    "alamat": "JL. JELAKREJO BLANDONGAN",
+    "kelurahan": "Bugul Kidul",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6592,
+    "lng": 112.9305,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20535472@sch.id",
+      "hp": "081654442164"
+    },
+    "kontak": {
+      "email": "info.20535472@sch.id",
+      "telepon": "031-7827910"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535472@sch.id",
+          "hp": "081707011434"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535473",
+    "nama": "UPT SMK NEGERI 2 PASURUAN",
+    "alamat": "JL. PATIUNUS 141 PASURUAN",
+    "kelurahan": "Purworejo",
+    "status": "Negeri",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6676,
+    "lng": 112.9057,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535473@sch.id",
+      "hp": "081759790076"
+    },
+    "kontak": {
+      "email": "info.20535473@sch.id",
+      "telepon": "031-1141876"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535473@sch.id",
+          "hp": "081579997816"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536821",
+    "nama": "SMKS ISLAM BATU",
+    "alamat": "JL. BARAT STADION BRANTAS",
+    "kelurahan": "Batu",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.8778,
+    "lng": 112.5255,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20536821@sch.id",
+      "hp": "081621250017"
+    },
+    "kontak": {
+      "email": "info.20536821@sch.id",
+      "telepon": "031-4969440"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536821@sch.id",
+          "hp": "081630270472"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535099",
+    "nama": "SMKN 3 BLITAR",
+    "alamat": "JL. SUDANCO SUPRIADI NO. 24 BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Negeri",
+    "kota": "Kota Blitar",
+    "lat": -8.0951,
+    "lng": 112.1763,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20535099@sch.id",
+      "hp": "081651458426"
+    },
+    "kontak": {
+      "email": "info.20535099@sch.id",
+      "telepon": "031-8120305"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20535099@sch.id",
+          "hp": "081519602262"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20555792",
+    "nama": "SMK RAUDLATUL HASANIYAH",
+    "alamat": "JL. KH. ABDUL HAMID GG PESANTREN 35A",
+    "kelurahan": "Kedopok",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7618,
+    "lng": 113.2192,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20555792@sch.id",
+      "hp": "081120548663"
+    },
+    "kontak": {
+      "email": "info.20555792@sch.id",
+      "telepon": "031-2154952"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20555792@sch.id",
+          "hp": "081866511525"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20546877",
+    "nama": "SMKN 4 PROBOLINGGO",
+    "alamat": "JL. SEMERU NO. 123",
+    "kelurahan": "Kademangan",
+    "status": "Negeri",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7752,
+    "lng": 113.1814,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20546877@sch.id",
+      "hp": "081495714185"
+    },
+    "kontak": {
+      "email": "info.20546877@sch.id",
+      "telepon": "031-9010308"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20546877@sch.id",
+          "hp": "081222657253"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20557252",
+    "nama": "SMK AL FALAH",
+    "alamat": "Jl. Durian No. 13B",
+    "kelurahan": "Kedopok",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.791,
+    "lng": 113.185,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20557252@sch.id",
+      "hp": "081601863726"
+    },
+    "kontak": {
+      "email": "info.20557252@sch.id",
+      "telepon": "031-2213940"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20557252@sch.id",
+          "hp": "081137385715"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69806648",
+    "nama": "SMK TELKOM BRAWIJAYA",
+    "alamat": "Jl. Raden Patah RT 03 RW 01",
+    "kelurahan": "Kepanjenkidul",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.077021,
+    "lng": 112.178558,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.69806648@sch.id",
+      "hp": "081635578882"
+    },
+    "kontak": {
+      "email": "info.69806648@sch.id",
+      "telepon": "031-6659212"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69806648@sch.id",
+          "hp": "081158639000"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536819",
+    "nama": "SMKS 17 AGUSTUS BATU",
+    "alamat": "JL. MUSTARI NO. 7 BATU",
+    "kelurahan": "Batu",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.876,
+    "lng": 112.5235,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20536819@sch.id",
+      "hp": "081874995889"
+    },
+    "kontak": {
+      "email": "info.20536819@sch.id",
+      "telepon": "031-6995287"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20536819@sch.id",
+          "hp": "081151858526"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535434",
+    "nama": "SMKS UNTUNG SURAPATI",
+    "alamat": "JL. PAHLAWAN NO.  21 PASURUAN",
+    "kelurahan": "Panggungrejo",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6453,
+    "lng": 112.9101,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20535434@sch.id",
+      "hp": "081536059341"
+    },
+    "kontak": {
+      "email": "info.20535434@sch.id",
+      "telepon": "031-4707482"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535434@sch.id",
+          "hp": "081035634039"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535097",
+    "nama": "SMKN 1 BLITAR",
+    "alamat": "JL. KENARI 30 BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Negeri",
+    "kota": "Kota Blitar",
+    "lat": -8.113,
+    "lng": 112.1644,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20535097@sch.id",
+      "hp": "081862153889"
+    },
+    "kontak": {
+      "email": "info.20535097@sch.id",
+      "telepon": "031-7699624"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535097@sch.id",
+          "hp": "081884070110"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534765",
+    "nama": "SMKS BRAWIJAYA MOJOKERTO",
+    "alamat": "JL. Benteng Pancasila NO. 242",
+    "kelurahan": "Magersari",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4678,
+    "lng": 112.4478,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534765@sch.id",
+      "hp": "081474172121"
+    },
+    "kontak": {
+      "email": "info.20534765@sch.id",
+      "telepon": "031-1104282"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534765@sch.id",
+          "hp": "081711252618"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "60725451",
+    "nama": "SMKS BAYT AL HIKMAH",
+    "alamat": "JL. PATIUNUS NO. 25 PASURUAN",
+    "kelurahan": "Bugul Kidul",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6739,
+    "lng": 112.9059,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.60725451@sch.id",
+      "hp": "081153943433"
+    },
+    "kontak": {
+      "email": "info.60725451@sch.id",
+      "telepon": "031-7083281"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.60725451@sch.id",
+          "hp": "081192086216"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536820",
+    "nama": "SMKS EDITH BATU",
+    "alamat": "JL. IR. SOEKARNO (RAYA BEJI) NO. 133",
+    "kelurahan": "Junrejo",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.8967,
+    "lng": 112.5554,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536820@sch.id",
+      "hp": "081609900669"
+    },
+    "kontak": {
+      "email": "info.20536820@sch.id",
+      "telepon": "031-4458752"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536820@sch.id",
+          "hp": "081104844295"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534782",
+    "nama": "SMKS PUTRA BANGSA MOJOKERTO",
+    "alamat": "JL. JOKO TOLE NO.4 MOJOKERTO",
+    "kelurahan": "Magersari",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4744,
+    "lng": 112.4328,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20534782@sch.id",
+      "hp": "081557254950"
+    },
+    "kontak": {
+      "email": "info.20534782@sch.id",
+      "telepon": "031-1593382"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534782@sch.id",
+          "hp": "081212047867"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535095",
+    "nama": "SMKS YP 17 BLITAR",
+    "alamat": "JL. TIMOR NO. 12 BLITAR",
+    "kelurahan": "Sananwetan",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1112,
+    "lng": 112.1689,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20535095@sch.id",
+      "hp": "081443514563"
+    },
+    "kontak": {
+      "email": "info.20535095@sch.id",
+      "telepon": "031-5081604"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20535095@sch.id",
+          "hp": "081283509068"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535098",
+    "nama": "SMKN 2 BLITAR",
+    "alamat": "JL. TANJUNG 111 BLITAR",
+    "kelurahan": "Sukorejo",
+    "status": "Negeri",
+    "kota": "Kota Blitar",
+    "lat": -8.0999,
+    "lng": 112.1475,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20535098@sch.id",
+      "hp": "081385920047"
+    },
+    "kontak": {
+      "email": "info.20535098@sch.id",
+      "telepon": "031-3253254"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20535098@sch.id",
+          "hp": "081090210644"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69752269",
+    "nama": "SMKS BHINEKA TUNGGAL IKA INDONESIA",
+    "alamat": "JL. RAYA JUNREJO NO 3",
+    "kelurahan": "Junrejo",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.9111,
+    "lng": 112.5575,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69752269@sch.id",
+      "hp": "081162230685"
+    },
+    "kontak": {
+      "email": "info.69752269@sch.id",
+      "telepon": "031-4111533"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69752269@sch.id",
+          "hp": "081668068836"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536293",
+    "nama": "SMKS AHMAD YANI PROBOLINGGO",
+    "alamat": "JL. MASTRIP. NO. 152 PROBOLINGGO",
+    "kelurahan": "Kanigaran",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.771,
+    "lng": 113.2136,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536293@sch.id",
+      "hp": "081329096061"
+    },
+    "kontak": {
+      "email": "info.20536293@sch.id",
+      "telepon": "031-5137746"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20536293@sch.id",
+          "hp": "081337107150"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534766",
+    "nama": "SMKS MUHAMMADIYAH 1 MOJOKERTO",
+    "alamat": "JL. BRAWIJAYA, SINOMAN VI/24 KOTA MOJOKERTO",
+    "kelurahan": "Prajurit Kulon",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4797,
+    "lng": 112.4301,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Siti Aminah, S.Pd.",
+      "email": "kepsek.20534766@sch.id",
+      "hp": "081351705944"
+    },
+    "kontak": {
+      "email": "info.20534766@sch.id",
+      "telepon": "031-9334545"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534766@sch.id",
+          "hp": "081732422021"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534781",
+    "nama": "SMKS PGRI MOJOKERTO",
+    "alamat": "JL. RAYA SURODINAWAN 55 MOJOKERTO",
+    "kelurahan": "Prajurit Kulon",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4844,
+    "lng": 112.4224,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Agus Setiawan, M.T.",
+      "email": "kepsek.20534781@sch.id",
+      "hp": "081087809495"
+    },
+    "kontak": {
+      "email": "info.20534781@sch.id",
+      "telepon": "031-7353384"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20534781@sch.id",
+          "hp": "081036163787"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20534767",
+    "nama": "SMKS PARAMITA MOJOKERTO",
+    "alamat": "JL. EMPU NALA NO. 15 - 17",
+    "kelurahan": "Magersari",
+    "status": "Swasta",
+    "kota": "Kota Mojokerto",
+    "lat": -7.4664,
+    "lng": 112.4402,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20534767@sch.id",
+      "hp": "081838159248"
+    },
+    "kontak": {
+      "email": "info.20534767@sch.id",
+      "telepon": "031-4148451"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20534767@sch.id",
+          "hp": "081044214191"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69939354",
+    "nama": "SMK SUNAN GIRI",
+    "alamat": "Jl. Prof. DR. Hamka No. 54A Probolinggo",
+    "kelurahan": "Kademangan",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.788709,
+    "lng": 113.195423,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69939354@sch.id",
+      "hp": "081177699596"
+    },
+    "kontak": {
+      "email": "info.69939354@sch.id",
+      "telepon": "031-4754807"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.69939354@sch.id",
+          "hp": "081795131524"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535096",
+    "nama": "SMKS YP KOTAMADYA BLITAR",
+    "alamat": "JL. PAMUNGKUR NO. 32-34 BLITAR",
+    "kelurahan": "Sukorejo",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.1013,
+    "lng": 112.1473,
+    "akreditasi": "B",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20535096@sch.id",
+      "hp": "081840634186"
+    },
+    "kontak": {
+      "email": "info.20535096@sch.id",
+      "telepon": "031-6431587"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Bambang Pamungkas, M.Kom.",
+          "email": "tkj.20535096@sch.id",
+          "hp": "081371092281"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535471",
+    "nama": "SMKS MGR SOEGIJAPRANATA",
+    "alamat": "JL. PANGLIMA SUDIRMAN NO. 64 PASURUAN",
+    "kelurahan": "Purworejo",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6548,
+    "lng": 112.8974,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20535471@sch.id",
+      "hp": "081844810700"
+    },
+    "kontak": {
+      "email": "info.20535471@sch.id",
+      "telepon": "031-6902759"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20535471@sch.id",
+          "hp": "081010087372"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "69865943",
+    "nama": "SMK INDONESIA PUTERA",
+    "alamat": "JALAN SERUNI NO. 3 BLITAR",
+    "kelurahan": "Kepanjenkidul",
+    "status": "Swasta",
+    "kota": "Kota Blitar",
+    "lat": -8.092154,
+    "lng": 112.15979,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.69865943@sch.id",
+      "hp": "081883838430"
+    },
+    "kontak": {
+      "email": "info.69865943@sch.id",
+      "telepon": "031-9655524"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.69865943@sch.id",
+          "hp": "081343791040"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536292",
+    "nama": "SMKS MUHAMMADIYAH 1 PROBOLINGGO",
+    "alamat": "JL. MAYJEND PANJAITAN NO. 73",
+    "kelurahan": "Mayangan",
+    "status": "Swasta",
+    "kota": "Kota Probolinggo",
+    "lat": -7.7436,
+    "lng": 113.2106,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536292@sch.id",
+      "hp": "081851578658"
+    },
+    "kontak": {
+      "email": "info.20536292@sch.id",
+      "telepon": "031-6403484"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536292@sch.id",
+          "hp": "081458896121"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20536825",
+    "nama": "SMKS MUHAMMADIYAH 1 BATU",
+    "alamat": "JL. WELIRANG NO. 17 BATU",
+    "kelurahan": "Batu",
+    "status": "Swasta",
+    "kota": "Kota Batu",
+    "lat": -7.8733,
+    "lng": 112.5306,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Drs. Haryanto, M.Pd.",
+      "email": "kepsek.20536825@sch.id",
+      "hp": "081550660552"
+    },
+    "kontak": {
+      "email": "info.20536825@sch.id",
+      "telepon": "031-9026653"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Dian Permatasari, S.Kom.",
+          "email": "tkj.20536825@sch.id",
+          "hp": "081832166900"
+        }
+      }
+    ]
+  },
+  {
+    "npsn": "20535470",
+    "nama": "SMKS MUHAMMADIYAH 1",
+    "alamat": "JL. KH. WACHID HASYIM 202 PASURUAN",
+    "kelurahan": "Panggungrejo",
+    "status": "Swasta",
+    "kota": "Kota Pasuruan",
+    "lat": -7.6464,
+    "lng": 112.9036,
+    "akreditasi": "A",
+    "kepala_sekolah": {
+      "nama": "Ir. Budi Santoso",
+      "email": "kepsek.20535470@sch.id",
+      "hp": "081515080840"
+    },
+    "kontak": {
+      "email": "info.20535470@sch.id",
+      "telepon": "031-2257669"
+    },
+    "jurusan": [
+      {
+        "nama": "Teknik Komputer dan Jaringan",
+        "kajur": {
+          "nama": "Rudi Hermawan, S.T.",
+          "email": "tkj.20535470@sch.id",
+          "hp": "081521066957"
+        }
+      }
+    ]
   }
 ]

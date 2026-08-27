@@ -1,5 +1,5 @@
 import { useInstitusi } from '../context/InstitusiContext';
-import { Search, MapPin, Building2, Download } from 'lucide-react';
+import { Search, MapPin, Building2, Download, Mail, Phone } from 'lucide-react';
 import Papa from 'papaparse';
 
 export default function Sidebar() {
@@ -138,6 +138,26 @@ export default function Sidebar() {
                   <span className="flex items-center gap-1"><Building2 size={12} /> {item.jenis}</span>
                   <span className="flex items-center gap-1"><MapPin size={12} /> {item.kota}</span>
                 </div>
+                {(item.kontak?.email && item.kontak.email !== '-' || item.kontak?.telepon && item.kontak.telepon !== '-') && (
+                  <div className="flex flex-col gap-1 mt-1.5">
+                    {item.kontak?.email && item.kontak.email !== '-' && (
+                      <div className={`flex items-center gap-1.5 text-[11px] truncate ${item.kontak.is_email_valid === false ? 'text-slate-500' : 'text-blue-600'}`}>
+                        <Mail size={11} className={item.kontak.is_email_valid === false ? 'opacity-50' : ''} /> 
+                        <span className={item.kontak.is_email_valid === false ? 'line-through' : ''}>{item.kontak.email}</span>
+                        {item.kontak.is_email_valid === false && (
+                          <span className="text-[9px] font-medium px-1 py-0.5 bg-red-100 text-red-600 rounded-sm no-underline ml-1 shrink-0">
+                            Tidak Aktif
+                          </span>
+                        )}
+                      </div>
+                    )}
+                    {item.kontak?.telepon && item.kontak.telepon !== '-' && (
+                      <div className="flex items-center gap-1.5 text-[11px] text-emerald-600 truncate">
+                        <Phone size={11} /> {item.kontak.telepon}
+                      </div>
+                    )}
+                  </div>
+                )}
                 <div className="mt-2 flex">
                   <span className={`text-[10px] px-2 py-0.5 rounded-full font-medium ${
                     item.status_kerjasama === 'sudah' ? 'bg-green-100 text-green-700' :

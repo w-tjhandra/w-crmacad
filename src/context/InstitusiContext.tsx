@@ -82,7 +82,7 @@ export function InstitusiProvider({ children }: { children: ReactNode }) {
       });
     };
 
-    if (saved && version === '2.3') {
+    if (saved && version === '2.5') {
       return JSON.parse(saved);
     }
     
@@ -97,7 +97,7 @@ export function InstitusiProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     localStorage.setItem('institusi_data', JSON.stringify(institusiList));
-    localStorage.setItem('institusi_data_version', '2.3');
+    localStorage.setItem('institusi_data_version', '2.5');
   }, [institusiList]);
 
   const updateStatus = (id: string, newStatus: StatusKerjasama) => {

@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "password123",
+    "name": "Administrator CRM",
+    "role": "Administrator"
+  },
+  {
+    "username": "sales",
+    "password": "password123",
+    "name": "Sales Representative",
+    "role": "Sales"
+  },
+  {
+    "username": "welly",
+    "password": "password123",
+    "name": "Welly",
+    "role": "Administrator"
+  }
+]
